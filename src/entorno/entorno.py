@@ -1,0 +1,98 @@
+import numpy as np
+from src.entorno.agente import Agente
+
+class EntornoSimulacion:
+    VACIO = 0
+    MURO = 1
+    FUEGO = 2
+    SALIDA = 3
+
+    def __init__(self, matriz_mapa, k, sensibilidad_congestion=1.0, fuego_aleatorio=False, capacidad_maxima=3):
+        self.mapa_base = np.copy(matriz_mapa)
+        self.mapa_actual = np.copy(matriz_mapa)
+        self.k = k
+        self.sensibilidad_congestion = sensibilidad_congestion
+        self.capacidad_maxima = capacidad_maxima
+        self.turno_actual = 0
+        self.agentes = []
+
+        if fuego_aleatorio:
+            self.mapa_actual[self.mapa_actual == self.FUEGO] = self.VACIO
+            vacias = np.argwhere(self.mapa_actual == self.VACIO)
+            pos_fuego = vacias[np.random.choice(len(vacias))]
+            self.mapa_actual[tuple(pos_fuego)] = self.FUEGO
+
+        coordenadas = np.argwhere(self.mapa_actual == self.SALIDA)
+        self.posicion_salida = tuple(coordenadas[0])
+
+    def agregar_agentes(self, posiciones_iniciales):
+        for i, pos in enumerate(posiciones_iniciales):
+            self.agentes.append(Agente(i, pos))
+
+    def matriz_costos(self):
+        filas, columnas = self.mapa_actual.shape
+        matriz_costos = np.ones((filas, columnas), dtype=float)
+
+        for agente in self.agentes:
+            if agente.estado == "VIVO":
+                f, c = agente.posicion
+                matriz_costos[f][c] += 1.0
+
+        for f in range(filas):
+            for c in range(columnas):
+                ocupacion = matriz_costos[f][c] - 1.0
+                matriz_costos[f][c] = 1.0 + self.sensibilidad_congestion * (ocupacion ** 2)
+                if self.mapa_actual[f][c] in [self.MURO, self.FUEGO]:
+                    matriz_costos[f][c] = float('inf')
+
+        return matriz_costos
+
+    def propagar_fuego(self):
+        filas, columnas = self.mapa_actual.shape
+        nuevo_mapa = np.copy(self.mapa_actual)
+        direcciones = [(-1, 0), (1, 0), (0, -1), (0, 1)]
+
+        for f in range(filas):
+            for c in range(columnas):
+                if self.mapa_actual[f][c] == self.FUEGO:
+                    for df, dc in direcciones:
+                        nf, nc = f + df, c + dc
+                        if 0 <= nf < filas and 0 <= nc < columnas:
+                            if self.mapa_actual[nf][nc] not in [self.MURO, self.SALIDA]:
+                                nuevo_mapa[nf][nc] = self.FUEGO
+
+        self.mapa_actual = nuevo_mapa
+
+    def avanzar_turno(self, acciones_agentes):
+        self.turno_actual += 1
+
+        if self.turno_actual % self.k == 0:
+            self.propagar_fuego()
+
+        conteo = {}
+        for a in self.agentes:
+            if a.estado == "VIVO":
+                conteo[a.posicion] = conteo.get(a.posicion, 0) + 1
+
+        for agente in self.agentes:
+            if agente.estado != "VIVO":
+                continue
+
+            destino = acciones_agentes.get(agente.id_agente, agente.posicion)
+
+            if destino != agente.posicion and conteo.get(destino, 0) >= self.capacidad_maxima:
+                destino = agente.posicion
+
+            if self.mapa_actual[destino] == self.FUEGO:
+                agente.morir()
+                continue
+
+            agente.mover(destino)
+
+            if agente.posicion == self.posicion_salida:
+                agente.evacuar()
+            elif self.mapa_actual[agente.posicion] == self.FUEGO:
+                agente.morir()
+
+    def terminado(self):
+        return not any(a.estado == "VIVO" for a in self.agentes)
