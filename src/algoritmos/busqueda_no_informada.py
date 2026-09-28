@@ -17,7 +17,7 @@ class BusquedaNoInformada:
     DIRECCIONES = [(0, 1), (0, -1), (1, 0), (-1, 0)]
 
     @staticmethod
-    def BreadthSearchFirst(posicion_actual, posicion_salida, mapa_actual):
+    def BreadthFirstSearch(posicion_actual, posicion_salida, mapa_actual):
         filas, columnas = mapa_actual.shape
         cola = deque([(posicion_actual, [posicion_actual])])
         visitados = set()
