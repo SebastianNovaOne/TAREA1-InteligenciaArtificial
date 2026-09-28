@@ -4,6 +4,7 @@ from src.algoritmos.busqueda_informada import BusquedaInformada
 from src.algoritmos.algoritmo_genetico import AlgoritmoGenetico
 
 from visualizacion import ejecutar_simulacion_visual
+from benchmark import benchmark
 
 def ejecutar_bfs(pos, salida, mapa, costos):
     return BusquedaNoInformada.BreadthFirstSearch(pos, salida, mapa)
@@ -39,20 +40,21 @@ def menu_principal():
     while True:
         print("Simulador de evacuacion de incendios basado en algoritmos")
         print("1. Modo Visualizacion [1 Iteracion, con actualizaciones visuales en terminal]")
-        print("2. Cancelar")
+        print("2. Modo Benchmarking [Multiples Iteraciones, sin visualizacion, Solo rendimiento]")
+        print("3. Cancelar")
 
-        modo = input("Selecciona una opcion (1-2): ")
+        modo = input("Selecciona una opcion [1-3]: ")
 
-        if modo == "2":
+        if modo == "3":
             break
-        if modo != "1":
+        if modo not in ["1", "2"]:
             continue
 
         print("\nSELECCION DE MAPA")
         print("1. Alta Densidad")
         print("2. Media Densidad")
         print("3. Baja Densidad")
-        opcion_mapa = input("Selecciona un mapa (1-3): ")
+        opcion_mapa = input("Selecciona un mapa [1-3]: ")
 
         if opcion_mapa not in diccionario_mapas:
             continue
@@ -66,14 +68,19 @@ def menu_principal():
         print("3. Greedy Best First Search")
         print("4. A*")
         print("5. Algoritmo Genetico")
-        opcion_algoritmo = input("Selecciona un algoritmo (1-5): ")
+        opcion_algoritmo = input("Selecciona un algoritmo [1-5]: ")
 
         if opcion_algoritmo not in diccionario_algoritmos:
             continue
 
         nombre_algoritmo, funcion_algoritmo = diccionario_algoritmos[opcion_algoritmo]
 
-        ejecutar_simulacion_visual(mapa_seleccionado, funcion_algoritmo, nombre_algoritmo)
+        if modo == "1":
+            ejecutar_simulacion_visual(mapa_seleccionado, funcion_algoritmo, nombre_algoritmo)
+        elif modo == "2":
+            iteraciones = int(input("\nIngrese cantidad de iteraciones [MIN 80 - MAX 200]: "))
+            agentes = int(input("Ingrese cantidad de agentes por cada iteracion [MIN 80 - MAX 300]: "))
+            benchmark(mapa_seleccionado, nombre_mapa, funcion_algoritmo, nombre_algoritmo, iteraciones, agentes)
 
 if __name__ == "__main__":
     menu_principal()

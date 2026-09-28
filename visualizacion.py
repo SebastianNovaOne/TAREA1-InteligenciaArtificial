@@ -1,7 +1,7 @@
 import time
 from src.entorno.entorno import EntornoSimulacion
 from colores_visualizacion import limpiar_pantalla, imprimir_mapa_consola
-from benchmarking import obtener_posiciones_vacias
+from benchmark import obtener_posiciones_vacias
 
 def ejecutar_simulacion_visual(mapa_elegido, funcion_algoritmo, nombre_algoritmo):
     entorno = EntornoSimulacion(
