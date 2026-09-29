@@ -1,0 +1,1665 @@
+RESULTADOS OFICIALES: Log completo de los resultados obtenidos del programa
+
+MAPA ALTA DENSIDAD
+
+BSF
+Iniciando Benchmark: BFS en Alta Densidad (100 iteraciones)
+Iteracion 1/100 finalizada. Supervivientes: 189 | Turno último agente evacuado: 85
+Iteracion 2/100 finalizada. Supervivientes: 69 | Turno último agente evacuado: 30
+Iteracion 3/100 finalizada. Supervivientes: 179 | Turno último agente evacuado: 78
+Iteracion 4/100 finalizada. Supervivientes: 175 | Turno último agente evacuado: 71
+Iteracion 5/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 6/100 finalizada. Supervivientes: 168 | Turno último agente evacuado: 69
+Iteracion 7/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 89
+Iteracion 8/100 finalizada. Supervivientes: 69 | Turno último agente evacuado: 32
+Iteracion 9/100 finalizada. Supervivientes: 74 | Turno último agente evacuado: 33
+Iteracion 10/100 finalizada. Supervivientes: 84 | Turno último agente evacuado: 36
+Iteracion 11/100 finalizada. Supervivientes: 198 | Turno último agente evacuado: 93
+Iteracion 12/100 finalizada. Supervivientes: 180 | Turno último agente evacuado: 82
+Iteracion 13/100 finalizada. Supervivientes: 188 | Turno último agente evacuado: 84
+Iteracion 14/100 finalizada. Supervivientes: 131 | Turno último agente evacuado: 57
+Iteracion 15/100 finalizada. Supervivientes: 49 | Turno último agente evacuado: 25
+Iteracion 16/100 finalizada. Supervivientes: 55 | Turno último agente evacuado: 26
+Iteracion 17/100 finalizada. Supervivientes: 88 | Turno último agente evacuado: 37
+Iteracion 18/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 19/100 finalizada. Supervivientes: 189 | Turno último agente evacuado: 74
+Iteracion 20/100 finalizada. Supervivientes: 195 | Turno último agente evacuado: 87
+Iteracion 21/100 finalizada. Supervivientes: 81 | Turno último agente evacuado: 39
+Iteracion 22/100 finalizada. Supervivientes: 72 | Turno último agente evacuado: 31
+Iteracion 23/100 finalizada. Supervivientes: 123 | Turno último agente evacuado: 53
+Iteracion 24/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 88
+Iteracion 25/100 finalizada. Supervivientes: 192 | Turno último agente evacuado: 78
+Iteracion 26/100 finalizada. Supervivientes: 151 | Turno último agente evacuado: 61
+Iteracion 27/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 83
+Iteracion 28/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 86
+Iteracion 29/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 77
+Iteracion 30/100 finalizada. Supervivientes: 160 | Turno último agente evacuado: 69
+Iteracion 31/100 finalizada. Supervivientes: 191 | Turno último agente evacuado: 92
+Iteracion 32/100 finalizada. Supervivientes: 148 | Turno último agente evacuado: 63
+Iteracion 33/100 finalizada. Supervivientes: 122 | Turno último agente evacuado: 53
+Iteracion 34/100 finalizada. Supervivientes: 84 | Turno último agente evacuado: 40
+Iteracion 35/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 93
+Iteracion 36/100 finalizada. Supervivientes: 197 | Turno último agente evacuado: 94
+Iteracion 37/100 finalizada. Supervivientes: 104 | Turno último agente evacuado: 46
+Iteracion 38/100 finalizada. Supervivientes: 61 | Turno último agente evacuado: 28
+Iteracion 39/100 finalizada. Supervivientes: 195 | Turno último agente evacuado: 81
+Iteracion 40/100 finalizada. Supervivientes: 180 | Turno último agente evacuado: 71
+Iteracion 41/100 finalizada. Supervivientes: 74 | Turno último agente evacuado: 31
+Iteracion 42/100 finalizada. Supervivientes: 79 | Turno último agente evacuado: 36
+Iteracion 43/100 finalizada. Supervivientes: 156 | Turno último agente evacuado: 64
+Iteracion 44/100 finalizada. Supervivientes: 148 | Turno último agente evacuado: 62
+Iteracion 45/100 finalizada. Supervivientes: 172 | Turno último agente evacuado: 70
+Iteracion 46/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 92
+Iteracion 47/100 finalizada. Supervivientes: 184 | Turno último agente evacuado: 80
+Iteracion 48/100 finalizada. Supervivientes: 49 | Turno último agente evacuado: 25
+Iteracion 49/100 finalizada. Supervivientes: 38 | Turno último agente evacuado: 22
+Iteracion 50/100 finalizada. Supervivientes: 89 | Turno último agente evacuado: 39
+Iteracion 51/100 finalizada. Supervivientes: 194 | Turno último agente evacuado: 84
+Iteracion 52/100 finalizada. Supervivientes: 194 | Turno último agente evacuado: 93
+Iteracion 53/100 finalizada. Supervivientes: 181 | Turno último agente evacuado: 73
+Iteracion 54/100 finalizada. Supervivientes: 80 | Turno último agente evacuado: 37
+Iteracion 55/100 finalizada. Supervivientes: 185 | Turno último agente evacuado: 79
+Iteracion 56/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 93
+Iteracion 57/100 finalizada. Supervivientes: 138 | Turno último agente evacuado: 56
+Iteracion 58/100 finalizada. Supervivientes: 174 | Turno último agente evacuado: 72
+Iteracion 59/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 91
+Iteracion 60/100 finalizada. Supervivientes: 119 | Turno último agente evacuado: 51
+Iteracion 61/100 finalizada. Supervivientes: 47 | Turno último agente evacuado: 23
+Iteracion 62/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 63/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 93
+Iteracion 64/100 finalizada. Supervivientes: 169 | Turno último agente evacuado: 68
+Iteracion 65/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 92
+Iteracion 66/100 finalizada. Supervivientes: 74 | Turno último agente evacuado: 35
+Iteracion 67/100 finalizada. Supervivientes: 54 | Turno último agente evacuado: 25
+Iteracion 68/100 finalizada. Supervivientes: 199 | Turno último agente evacuado: 91
+Iteracion 69/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 91
+Iteracion 70/100 finalizada. Supervivientes: 104 | Turno último agente evacuado: 45
+Iteracion 71/100 finalizada. Supervivientes: 191 | Turno último agente evacuado: 94
+Iteracion 72/100 finalizada. Supervivientes: 197 | Turno último agente evacuado: 92
+Iteracion 73/100 finalizada. Supervivientes: 86 | Turno último agente evacuado: 41
+Iteracion 74/100 finalizada. Supervivientes: 77 | Turno último agente evacuado: 34
+Iteracion 75/100 finalizada. Supervivientes: 108 | Turno último agente evacuado: 51
+Iteracion 76/100 finalizada. Supervivientes: 197 | Turno último agente evacuado: 94
+Iteracion 77/100 finalizada. Supervivientes: 68 | Turno último agente evacuado: 29
+Iteracion 78/100 finalizada. Supervivientes: 140 | Turno último agente evacuado: 58
+Iteracion 79/100 finalizada. Supervivientes: 55 | Turno último agente evacuado: 27
+Iteracion 80/100 finalizada. Supervivientes: 120 | Turno último agente evacuado: 53
+Iteracion 81/100 finalizada. Supervivientes: 186 | Turno último agente evacuado: 73
+Iteracion 82/100 finalizada. Supervivientes: 54 | Turno último agente evacuado: 26
+Iteracion 83/100 finalizada. Supervivientes: 156 | Turno último agente evacuado: 63
+Iteracion 84/100 finalizada. Supervivientes: 51 | Turno último agente evacuado: 23
+Iteracion 85/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 86/100 finalizada. Supervivientes: 85 | Turno último agente evacuado: 37
+Iteracion 87/100 finalizada. Supervivientes: 151 | Turno último agente evacuado: 60
+Iteracion 88/100 finalizada. Supervivientes: 100 | Turno último agente evacuado: 45
+Iteracion 89/100 finalizada. Supervivientes: 89 | Turno último agente evacuado: 39
+Iteracion 90/100 finalizada. Supervivientes: 57 | Turno último agente evacuado: 25
+Iteracion 91/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 92/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 82
+Iteracion 93/100 finalizada. Supervivientes: 173 | Turno último agente evacuado: 71
+Iteracion 94/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 95/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 96/100 finalizada. Supervivientes: 198 | Turno último agente evacuado: 94
+Iteracion 97/100 finalizada. Supervivientes: 106 | Turno último agente evacuado: 44
+Iteracion 98/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 43
+Iteracion 99/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 92
+Iteracion 100/100 finalizada. Supervivientes: 197 | Turno último agente evacuado: 94
+
+RESULTADOS BENCHMARK BFS MAPA ALTA DENSIDAD
+Tasa de Supervivencia Promedio = 71.69%
+Tiempo de despeje Medio = 63.69 turnos
+Desviación Estándar = 24.90 turnos
+Tiempo Mínimo = 22 turnos
+Tiempo Máximo = 94 turnos
+
+UCS
+Iniciando Benchmark: UCS en Alta Densidad (100 iteraciones)
+Iteracion 1/100 finalizada. Supervivientes: 189 | Turno último agente evacuado: 85
+Iteracion 2/100 finalizada. Supervivientes: 68 | Turno último agente evacuado: 30
+Iteracion 3/100 finalizada. Supervivientes: 179 | Turno último agente evacuado: 78
+Iteracion 4/100 finalizada. Supervivientes: 175 | Turno último agente evacuado: 79
+Iteracion 5/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 6/100 finalizada. Supervivientes: 166 | Turno último agente evacuado: 68
+Iteracion 7/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 89
+Iteracion 8/100 finalizada. Supervivientes: 70 | Turno último agente evacuado: 33
+Iteracion 9/100 finalizada. Supervivientes: 78 | Turno último agente evacuado: 34
+Iteracion 10/100 finalizada. Supervivientes: 84 | Turno último agente evacuado: 36
+Iteracion 11/100 finalizada. Supervivientes: 198 | Turno último agente evacuado: 93
+Iteracion 12/100 finalizada. Supervivientes: 180 | Turno último agente evacuado: 82
+Iteracion 13/100 finalizada. Supervivientes: 188 | Turno último agente evacuado: 84
+Iteracion 14/100 finalizada. Supervivientes: 131 | Turno último agente evacuado: 57
+Iteracion 15/100 finalizada. Supervivientes: 48 | Turno último agente evacuado: 27
+Iteracion 16/100 finalizada. Supervivientes: 54 | Turno último agente evacuado: 26
+Iteracion 17/100 finalizada. Supervivientes: 90 | Turno último agente evacuado: 39
+Iteracion 18/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 19/100 finalizada. Supervivientes: 189 | Turno último agente evacuado: 75
+Iteracion 20/100 finalizada. Supervivientes: 195 | Turno último agente evacuado: 87
+Iteracion 21/100 finalizada. Supervivientes: 80 | Turno último agente evacuado: 39
+Iteracion 22/100 finalizada. Supervivientes: 72 | Turno último agente evacuado: 31
+Iteracion 23/100 finalizada. Supervivientes: 123 | Turno último agente evacuado: 53
+Iteracion 24/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 88
+Iteracion 25/100 finalizada. Supervivientes: 191 | Turno último agente evacuado: 78
+Iteracion 26/100 finalizada. Supervivientes: 151 | Turno último agente evacuado: 61
+Iteracion 27/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 83
+Iteracion 28/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 86
+Iteracion 29/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 76
+Iteracion 30/100 finalizada. Supervivientes: 161 | Turno último agente evacuado: 69
+Iteracion 31/100 finalizada. Supervivientes: 191 | Turno último agente evacuado: 92
+Iteracion 32/100 finalizada. Supervivientes: 151 | Turno último agente evacuado: 63
+Iteracion 33/100 finalizada. Supervivientes: 120 | Turno último agente evacuado: 52
+Iteracion 34/100 finalizada. Supervivientes: 86 | Turno último agente evacuado: 40
+Iteracion 35/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 93
+Iteracion 36/100 finalizada. Supervivientes: 197 | Turno último agente evacuado: 94
+Iteracion 37/100 finalizada. Supervivientes: 102 | Turno último agente evacuado: 46
+Iteracion 38/100 finalizada. Supervivientes: 58 | Turno último agente evacuado: 28
+Iteracion 39/100 finalizada. Supervivientes: 195 | Turno último agente evacuado: 81
+Iteracion 40/100 finalizada. Supervivientes: 179 | Turno último agente evacuado: 75
+Iteracion 41/100 finalizada. Supervivientes: 74 | Turno último agente evacuado: 37
+Iteracion 42/100 finalizada. Supervivientes: 79 | Turno último agente evacuado: 36
+Iteracion 43/100 finalizada. Supervivientes: 156 | Turno último agente evacuado: 64
+Iteracion 44/100 finalizada. Supervivientes: 147 | Turno último agente evacuado: 62
+Iteracion 45/100 finalizada. Supervivientes: 171 | Turno último agente evacuado: 70
+Iteracion 46/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 92
+Iteracion 47/100 finalizada. Supervivientes: 183 | Turno último agente evacuado: 80
+Iteracion 48/100 finalizada. Supervivientes: 47 | Turno último agente evacuado: 25
+Iteracion 49/100 finalizada. Supervivientes: 39 | Turno último agente evacuado: 22
+Iteracion 50/100 finalizada. Supervivientes: 88 | Turno último agente evacuado: 39
+Iteracion 51/100 finalizada. Supervivientes: 193 | Turno último agente evacuado: 84
+Iteracion 52/100 finalizada. Supervivientes: 194 | Turno último agente evacuado: 93
+Iteracion 53/100 finalizada. Supervivientes: 181 | Turno último agente evacuado: 73
+Iteracion 54/100 finalizada. Supervivientes: 79 | Turno último agente evacuado: 37
+Iteracion 55/100 finalizada. Supervivientes: 185 | Turno último agente evacuado: 79
+Iteracion 56/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 93
+Iteracion 57/100 finalizada. Supervivientes: 137 | Turno último agente evacuado: 56
+Iteracion 58/100 finalizada. Supervivientes: 174 | Turno último agente evacuado: 74
+Iteracion 59/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 91
+Iteracion 60/100 finalizada. Supervivientes: 119 | Turno último agente evacuado: 51
+Iteracion 61/100 finalizada. Supervivientes: 47 | Turno último agente evacuado: 28
+Iteracion 62/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 63/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 93
+Iteracion 64/100 finalizada. Supervivientes: 169 | Turno último agente evacuado: 69
+Iteracion 65/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 92
+Iteracion 66/100 finalizada. Supervivientes: 73 | Turno último agente evacuado: 34
+Iteracion 67/100 finalizada. Supervivientes: 55 | Turno último agente evacuado: 28
+Iteracion 68/100 finalizada. Supervivientes: 199 | Turno último agente evacuado: 91
+Iteracion 69/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 91
+Iteracion 70/100 finalizada. Supervivientes: 102 | Turno último agente evacuado: 45
+Iteracion 71/100 finalizada. Supervivientes: 191 | Turno último agente evacuado: 94
+Iteracion 72/100 finalizada. Supervivientes: 197 | Turno último agente evacuado: 92
+Iteracion 73/100 finalizada. Supervivientes: 87 | Turno último agente evacuado: 41
+Iteracion 74/100 finalizada. Supervivientes: 77 | Turno último agente evacuado: 34
+Iteracion 75/100 finalizada. Supervivientes: 109 | Turno último agente evacuado: 51
+Iteracion 76/100 finalizada. Supervivientes: 197 | Turno último agente evacuado: 94
+Iteracion 77/100 finalizada. Supervivientes: 66 | Turno último agente evacuado: 31
+Iteracion 78/100 finalizada. Supervivientes: 137 | Turno último agente evacuado: 58
+Iteracion 79/100 finalizada. Supervivientes: 57 | Turno último agente evacuado: 33
+Iteracion 80/100 finalizada. Supervivientes: 119 | Turno último agente evacuado: 53
+Iteracion 81/100 finalizada. Supervivientes: 186 | Turno último agente evacuado: 75
+Iteracion 82/100 finalizada. Supervivientes: 54 | Turno último agente evacuado: 26
+Iteracion 83/100 finalizada. Supervivientes: 155 | Turno último agente evacuado: 63
+Iteracion 84/100 finalizada. Supervivientes: 51 | Turno último agente evacuado: 27
+Iteracion 85/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 86/100 finalizada. Supervivientes: 84 | Turno último agente evacuado: 37
+Iteracion 87/100 finalizada. Supervivientes: 148 | Turno último agente evacuado: 60
+Iteracion 88/100 finalizada. Supervivientes: 98 | Turno último agente evacuado: 45
+Iteracion 89/100 finalizada. Supervivientes: 86 | Turno último agente evacuado: 39
+Iteracion 90/100 finalizada. Supervivientes: 57 | Turno último agente evacuado: 31
+Iteracion 91/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 92/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 109
+Iteracion 93/100 finalizada. Supervivientes: 175 | Turno último agente evacuado: 71
+Iteracion 94/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 95/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 96/100 finalizada. Supervivientes: 198 | Turno último agente evacuado: 94
+Iteracion 97/100 finalizada. Supervivientes: 104 | Turno último agente evacuado: 44
+Iteracion 98/100 finalizada. Supervivientes: 96 | Turno último agente evacuado: 43
+Iteracion 99/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 92
+Iteracion 100/100 finalizada. Supervivientes: 198 | Turno último agente evacuado: 94
+
+RESULTADOS BENCHMARK UCS MAPA ALTA DENSIDAD
+Tasa de Supervivencia Promedio = 71.58%
+Tiempo de despeje Medio = 64.48 turnos
+Desviación Estándar = 24.79 turnos
+Tiempo Mínimo = 22 turnos
+Tiempo Máximo = 109 turnos
+
+GREEDY
+Iniciando Benchmark: Greedy en Alta Densidad (100 iteraciones)
+Iteracion 1/100 finalizada. Supervivientes: 189 | Turno último agente evacuado: 85
+Iteracion 2/100 finalizada. Supervivientes: 69 | Turno último agente evacuado: 30
+Iteracion 3/100 finalizada. Supervivientes: 179 | Turno último agente evacuado: 78
+Iteracion 4/100 finalizada. Supervivientes: 175 | Turno último agente evacuado: 71
+Iteracion 5/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 6/100 finalizada. Supervivientes: 168 | Turno último agente evacuado: 69
+Iteracion 7/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 89
+Iteracion 8/100 finalizada. Supervivientes: 69 | Turno último agente evacuado: 32
+Iteracion 9/100 finalizada. Supervivientes: 74 | Turno último agente evacuado: 33
+Iteracion 10/100 finalizada. Supervivientes: 84 | Turno último agente evacuado: 36
+Iteracion 11/100 finalizada. Supervivientes: 198 | Turno último agente evacuado: 93
+Iteracion 12/100 finalizada. Supervivientes: 180 | Turno último agente evacuado: 82
+Iteracion 13/100 finalizada. Supervivientes: 188 | Turno último agente evacuado: 84
+Iteracion 14/100 finalizada. Supervivientes: 131 | Turno último agente evacuado: 57
+Iteracion 15/100 finalizada. Supervivientes: 49 | Turno último agente evacuado: 25
+Iteracion 16/100 finalizada. Supervivientes: 55 | Turno último agente evacuado: 26
+Iteracion 17/100 finalizada. Supervivientes: 88 | Turno último agente evacuado: 37
+Iteracion 18/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 19/100 finalizada. Supervivientes: 189 | Turno último agente evacuado: 75
+Iteracion 20/100 finalizada. Supervivientes: 195 | Turno último agente evacuado: 87
+Iteracion 21/100 finalizada. Supervivientes: 81 | Turno último agente evacuado: 39
+Iteracion 22/100 finalizada. Supervivientes: 72 | Turno último agente evacuado: 31
+Iteracion 23/100 finalizada. Supervivientes: 123 | Turno último agente evacuado: 53
+Iteracion 24/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 88
+Iteracion 25/100 finalizada. Supervivientes: 192 | Turno último agente evacuado: 78
+Iteracion 26/100 finalizada. Supervivientes: 151 | Turno último agente evacuado: 61
+Iteracion 27/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 83
+Iteracion 28/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 86
+Iteracion 29/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 77
+Iteracion 30/100 finalizada. Supervivientes: 160 | Turno último agente evacuado: 69
+Iteracion 31/100 finalizada. Supervivientes: 191 | Turno último agente evacuado: 92
+Iteracion 32/100 finalizada. Supervivientes: 148 | Turno último agente evacuado: 63
+Iteracion 33/100 finalizada. Supervivientes: 122 | Turno último agente evacuado: 53
+Iteracion 34/100 finalizada. Supervivientes: 84 | Turno último agente evacuado: 40
+Iteracion 35/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 93
+Iteracion 36/100 finalizada. Supervivientes: 197 | Turno último agente evacuado: 94
+Iteracion 37/100 finalizada. Supervivientes: 104 | Turno último agente evacuado: 46
+Iteracion 38/100 finalizada. Supervivientes: 61 | Turno último agente evacuado: 28
+Iteracion 39/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 81
+Iteracion 40/100 finalizada. Supervivientes: 180 | Turno último agente evacuado: 71
+Iteracion 41/100 finalizada. Supervivientes: 74 | Turno último agente evacuado: 31
+Iteracion 42/100 finalizada. Supervivientes: 79 | Turno último agente evacuado: 36
+Iteracion 43/100 finalizada. Supervivientes: 156 | Turno último agente evacuado: 64
+Iteracion 44/100 finalizada. Supervivientes: 147 | Turno último agente evacuado: 62
+Iteracion 45/100 finalizada. Supervivientes: 172 | Turno último agente evacuado: 70
+Iteracion 46/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 92
+Iteracion 47/100 finalizada. Supervivientes: 184 | Turno último agente evacuado: 80
+Iteracion 48/100 finalizada. Supervivientes: 49 | Turno último agente evacuado: 25
+Iteracion 49/100 finalizada. Supervivientes: 38 | Turno último agente evacuado: 22
+Iteracion 50/100 finalizada. Supervivientes: 89 | Turno último agente evacuado: 39
+Iteracion 51/100 finalizada. Supervivientes: 194 | Turno último agente evacuado: 84
+Iteracion 52/100 finalizada. Supervivientes: 194 | Turno último agente evacuado: 93
+Iteracion 53/100 finalizada. Supervivientes: 181 | Turno último agente evacuado: 73
+Iteracion 54/100 finalizada. Supervivientes: 80 | Turno último agente evacuado: 37
+Iteracion 55/100 finalizada. Supervivientes: 185 | Turno último agente evacuado: 79
+Iteracion 56/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 93
+Iteracion 57/100 finalizada. Supervivientes: 138 | Turno último agente evacuado: 56
+Iteracion 58/100 finalizada. Supervivientes: 174 | Turno último agente evacuado: 72
+Iteracion 59/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 91
+Iteracion 60/100 finalizada. Supervivientes: 119 | Turno último agente evacuado: 51
+Iteracion 61/100 finalizada. Supervivientes: 47 | Turno último agente evacuado: 23
+Iteracion 62/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 63/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 93
+Iteracion 64/100 finalizada. Supervivientes: 169 | Turno último agente evacuado: 68
+Iteracion 65/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 92
+Iteracion 66/100 finalizada. Supervivientes: 74 | Turno último agente evacuado: 35
+Iteracion 67/100 finalizada. Supervivientes: 54 | Turno último agente evacuado: 25
+Iteracion 68/100 finalizada. Supervivientes: 199 | Turno último agente evacuado: 91
+Iteracion 69/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 91
+Iteracion 70/100 finalizada. Supervivientes: 104 | Turno último agente evacuado: 45
+Iteracion 71/100 finalizada. Supervivientes: 191 | Turno último agente evacuado: 94
+Iteracion 72/100 finalizada. Supervivientes: 197 | Turno último agente evacuado: 92
+Iteracion 73/100 finalizada. Supervivientes: 86 | Turno último agente evacuado: 41
+Iteracion 74/100 finalizada. Supervivientes: 77 | Turno último agente evacuado: 34
+Iteracion 75/100 finalizada. Supervivientes: 108 | Turno último agente evacuado: 51
+Iteracion 76/100 finalizada. Supervivientes: 197 | Turno último agente evacuado: 94
+Iteracion 77/100 finalizada. Supervivientes: 68 | Turno último agente evacuado: 29
+Iteracion 78/100 finalizada. Supervivientes: 140 | Turno último agente evacuado: 58
+Iteracion 79/100 finalizada. Supervivientes: 55 | Turno último agente evacuado: 27
+Iteracion 80/100 finalizada. Supervivientes: 120 | Turno último agente evacuado: 53
+Iteracion 81/100 finalizada. Supervivientes: 186 | Turno último agente evacuado: 72
+Iteracion 82/100 finalizada. Supervivientes: 54 | Turno último agente evacuado: 26
+Iteracion 83/100 finalizada. Supervivientes: 156 | Turno último agente evacuado: 63
+Iteracion 84/100 finalizada. Supervivientes: 51 | Turno último agente evacuado: 23
+Iteracion 85/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 86/100 finalizada. Supervivientes: 85 | Turno último agente evacuado: 37
+Iteracion 87/100 finalizada. Supervivientes: 150 | Turno último agente evacuado: 60
+Iteracion 88/100 finalizada. Supervivientes: 100 | Turno último agente evacuado: 45
+Iteracion 89/100 finalizada. Supervivientes: 89 | Turno último agente evacuado: 39
+Iteracion 90/100 finalizada. Supervivientes: 57 | Turno último agente evacuado: 25
+Iteracion 91/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 92/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 82
+Iteracion 93/100 finalizada. Supervivientes: 172 | Turno último agente evacuado: 71
+Iteracion 94/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 95/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 96/100 finalizada. Supervivientes: 198 | Turno último agente evacuado: 94
+Iteracion 97/100 finalizada. Supervivientes: 106 | Turno último agente evacuado: 44
+Iteracion 98/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 43
+Iteracion 99/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 92
+Iteracion 100/100 finalizada. Supervivientes: 197 | Turno último agente evacuado: 94
+
+RESULTADOS BENCHMARK GREEDY BEST FIRST SEARCH MAPA ALTA DENSIDAD
+Tasa de Supervivencia Promedio = 71.68%
+Tiempo de despeje Medio = 63.69 turnos
+Desviación Estándar = 24.91 turnos
+Tiempo Mínimo = 22 turnos
+Tiempo Máximo = 94 turnos
+
+A*
+Iniciando Benchmark: A* en Alta Densidad (100 iteraciones)
+Iteracion 1/100 finalizada. Supervivientes: 188 | Turno último agente evacuado: 85
+Iteracion 2/100 finalizada. Supervivientes: 68 | Turno último agente evacuado: 30
+Iteracion 3/100 finalizada. Supervivientes: 178 | Turno último agente evacuado: 78
+Iteracion 4/100 finalizada. Supervivientes: 175 | Turno último agente evacuado: 79
+Iteracion 5/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 6/100 finalizada. Supervivientes: 166 | Turno último agente evacuado: 68
+Iteracion 7/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 89
+Iteracion 8/100 finalizada. Supervivientes: 70 | Turno último agente evacuado: 33
+Iteracion 9/100 finalizada. Supervivientes: 78 | Turno último agente evacuado: 34
+Iteracion 10/100 finalizada. Supervivientes: 84 | Turno último agente evacuado: 36
+Iteracion 11/100 finalizada. Supervivientes: 198 | Turno último agente evacuado: 93
+Iteracion 12/100 finalizada. Supervivientes: 180 | Turno último agente evacuado: 82
+Iteracion 13/100 finalizada. Supervivientes: 188 | Turno último agente evacuado: 84
+Iteracion 14/100 finalizada. Supervivientes: 131 | Turno último agente evacuado: 57
+Iteracion 15/100 finalizada. Supervivientes: 50 | Turno último agente evacuado: 30
+Iteracion 16/100 finalizada. Supervivientes: 54 | Turno último agente evacuado: 26
+Iteracion 17/100 finalizada. Supervivientes: 89 | Turno último agente evacuado: 38
+Iteracion 18/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 19/100 finalizada. Supervivientes: 189 | Turno último agente evacuado: 75
+Iteracion 20/100 finalizada. Supervivientes: 195 | Turno último agente evacuado: 87
+Iteracion 21/100 finalizada. Supervivientes: 80 | Turno último agente evacuado: 39
+Iteracion 22/100 finalizada. Supervivientes: 72 | Turno último agente evacuado: 31
+Iteracion 23/100 finalizada. Supervivientes: 123 | Turno último agente evacuado: 53
+Iteracion 24/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 88
+Iteracion 25/100 finalizada. Supervivientes: 192 | Turno último agente evacuado: 78
+Iteracion 26/100 finalizada. Supervivientes: 150 | Turno último agente evacuado: 61
+Iteracion 27/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 83
+Iteracion 28/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 86
+Iteracion 29/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 77
+Iteracion 30/100 finalizada. Supervivientes: 160 | Turno último agente evacuado: 69
+Iteracion 31/100 finalizada. Supervivientes: 191 | Turno último agente evacuado: 92
+Iteracion 32/100 finalizada. Supervivientes: 150 | Turno último agente evacuado: 63
+Iteracion 33/100 finalizada. Supervivientes: 120 | Turno último agente evacuado: 52
+Iteracion 34/100 finalizada. Supervivientes: 86 | Turno último agente evacuado: 40
+Iteracion 35/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 93
+Iteracion 36/100 finalizada. Supervivientes: 197 | Turno último agente evacuado: 94
+Iteracion 37/100 finalizada. Supervivientes: 104 | Turno último agente evacuado: 46
+Iteracion 38/100 finalizada. Supervivientes: 59 | Turno último agente evacuado: 28
+Iteracion 39/100 finalizada. Supervivientes: 195 | Turno último agente evacuado: 81
+Iteracion 40/100 finalizada. Supervivientes: 180 | Turno último agente evacuado: 74
+Iteracion 41/100 finalizada. Supervivientes: 73 | Turno último agente evacuado: 31
+Iteracion 42/100 finalizada. Supervivientes: 81 | Turno último agente evacuado: 36
+Iteracion 43/100 finalizada. Supervivientes: 156 | Turno último agente evacuado: 64
+Iteracion 44/100 finalizada. Supervivientes: 147 | Turno último agente evacuado: 62
+Iteracion 45/100 finalizada. Supervivientes: 172 | Turno último agente evacuado: 70
+Iteracion 46/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 92
+Iteracion 47/100 finalizada. Supervivientes: 183 | Turno último agente evacuado: 80
+Iteracion 48/100 finalizada. Supervivientes: 47 | Turno último agente evacuado: 25
+Iteracion 49/100 finalizada. Supervivientes: 39 | Turno último agente evacuado: 22
+Iteracion 50/100 finalizada. Supervivientes: 89 | Turno último agente evacuado: 39
+Iteracion 51/100 finalizada. Supervivientes: 194 | Turno último agente evacuado: 84
+Iteracion 52/100 finalizada. Supervivientes: 194 | Turno último agente evacuado: 93
+Iteracion 53/100 finalizada. Supervivientes: 181 | Turno último agente evacuado: 73
+Iteracion 54/100 finalizada. Supervivientes: 81 | Turno último agente evacuado: 37
+Iteracion 55/100 finalizada. Supervivientes: 185 | Turno último agente evacuado: 79
+Iteracion 56/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 93
+Iteracion 57/100 finalizada. Supervivientes: 136 | Turno último agente evacuado: 56
+Iteracion 58/100 finalizada. Supervivientes: 174 | Turno último agente evacuado: 72
+Iteracion 59/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 91
+Iteracion 60/100 finalizada. Supervivientes: 118 | Turno último agente evacuado: 51
+Iteracion 61/100 finalizada. Supervivientes: 47 | Turno último agente evacuado: 26
+Iteracion 62/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 63/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 93
+Iteracion 64/100 finalizada. Supervivientes: 169 | Turno último agente evacuado: 69
+Iteracion 65/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 92
+Iteracion 66/100 finalizada. Supervivientes: 73 | Turno último agente evacuado: 34
+Iteracion 67/100 finalizada. Supervivientes: 51 | Turno último agente evacuado: 26
+Iteracion 68/100 finalizada. Supervivientes: 199 | Turno último agente evacuado: 91
+Iteracion 69/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 91
+Iteracion 70/100 finalizada. Supervivientes: 102 | Turno último agente evacuado: 45
+Iteracion 71/100 finalizada. Supervivientes: 191 | Turno último agente evacuado: 94
+Iteracion 72/100 finalizada. Supervivientes: 197 | Turno último agente evacuado: 92
+Iteracion 73/100 finalizada. Supervivientes: 87 | Turno último agente evacuado: 41
+Iteracion 74/100 finalizada. Supervivientes: 77 | Turno último agente evacuado: 34
+Iteracion 75/100 finalizada. Supervivientes: 109 | Turno último agente evacuado: 51
+Iteracion 76/100 finalizada. Supervivientes: 197 | Turno último agente evacuado: 94
+Iteracion 77/100 finalizada. Supervivientes: 67 | Turno último agente evacuado: 31
+Iteracion 78/100 finalizada. Supervivientes: 137 | Turno último agente evacuado: 58
+Iteracion 79/100 finalizada. Supervivientes: 57 | Turno último agente evacuado: 31
+Iteracion 80/100 finalizada. Supervivientes: 120 | Turno último agente evacuado: 53
+Iteracion 81/100 finalizada. Supervivientes: 186 | Turno último agente evacuado: 74
+Iteracion 82/100 finalizada. Supervivientes: 54 | Turno último agente evacuado: 26
+Iteracion 83/100 finalizada. Supervivientes: 156 | Turno último agente evacuado: 63
+Iteracion 84/100 finalizada. Supervivientes: 51 | Turno último agente evacuado: 27
+Iteracion 85/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 86/100 finalizada. Supervivientes: 84 | Turno último agente evacuado: 37
+Iteracion 87/100 finalizada. Supervivientes: 149 | Turno último agente evacuado: 60
+Iteracion 88/100 finalizada. Supervivientes: 99 | Turno último agente evacuado: 45
+Iteracion 89/100 finalizada. Supervivientes: 86 | Turno último agente evacuado: 39
+Iteracion 90/100 finalizada. Supervivientes: 56 | Turno último agente evacuado: 26
+Iteracion 91/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 92/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 82
+Iteracion 93/100 finalizada. Supervivientes: 174 | Turno último agente evacuado: 71
+Iteracion 94/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 95/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 94
+Iteracion 96/100 finalizada. Supervivientes: 198 | Turno último agente evacuado: 94
+Iteracion 97/100 finalizada. Supervivientes: 104 | Turno último agente evacuado: 44
+Iteracion 98/100 finalizada. Supervivientes: 96 | Turno último agente evacuado: 43
+Iteracion 99/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 92
+Iteracion 100/100 finalizada. Supervivientes: 198 | Turno último agente evacuado: 94
+
+RESULTADOS BENCHMARK A* MAPA ALTA DENSIDAD
+Tasa de Supervivencia Promedio = 71.60%
+Tiempo de despeje Medio = 64.03 turnos
+Desviación Estándar = 24.64 turnos
+Tiempo Mínimo = 22 turnos
+Tiempo Máximo = 94 turnos
+
+GENETICO
+Iniciando Benchmark: Genetico en Alta Densidad (100 iteraciones)
+Iteracion 1/100 finalizada. Supervivientes: 130 | Turno último agente evacuado: 85
+Iteracion 2/100 finalizada. Supervivientes: 49 | Turno último agente evacuado: 30
+Iteracion 3/100 finalizada. Supervivientes: 126 | Turno último agente evacuado: 80
+Iteracion 4/100 finalizada. Supervivientes: 140 | Turno último agente evacuado: 89
+Iteracion 5/100 finalizada. Supervivientes: 180 | Turno último agente evacuado: 115
+Iteracion 6/100 finalizada. Supervivientes: 109 | Turno último agente evacuado: 69
+Iteracion 7/100 finalizada. Supervivientes: 142 | Turno último agente evacuado: 88
+Iteracion 8/100 finalizada. Supervivientes: 54 | Turno último agente evacuado: 33
+Iteracion 9/100 finalizada. Supervivientes: 61 | Turno último agente evacuado: 33
+Iteracion 10/100 finalizada. Supervivientes: 69 | Turno último agente evacuado: 36
+Iteracion 11/100 finalizada. Supervivientes: 170 | Turno último agente evacuado: 107
+Iteracion 12/100 finalizada. Supervivientes: 135 | Turno último agente evacuado: 81
+Iteracion 13/100 finalizada. Supervivientes: 140 | Turno último agente evacuado: 86
+Iteracion 14/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 58
+Iteracion 15/100 finalizada. Supervivientes: 41 | Turno último agente evacuado: 31
+Iteracion 16/100 finalizada. Supervivientes: 38 | Turno último agente evacuado: 26
+Iteracion 17/100 finalizada. Supervivientes: 64 | Turno último agente evacuado: 37
+Iteracion 18/100 finalizada. Supervivientes: 167 | Turno último agente evacuado: 101
+Iteracion 19/100 finalizada. Supervivientes: 189 | Turno último agente evacuado: 127
+Iteracion 20/100 finalizada. Supervivientes: 143 | Turno último agente evacuado: 89
+Iteracion 21/100 finalizada. Supervivientes: 62 | Turno último agente evacuado: 38
+Iteracion 22/100 finalizada. Supervivientes: 54 | Turno último agente evacuado: 31
+Iteracion 23/100 finalizada. Supervivientes: 91 | Turno último agente evacuado: 53
+Iteracion 24/100 finalizada. Supervivientes: 141 | Turno último agente evacuado: 90
+Iteracion 25/100 finalizada. Supervivientes: 132 | Turno último agente evacuado: 78
+Iteracion 26/100 finalizada. Supervivientes: 104 | Turno último agente evacuado: 61
+Iteracion 27/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 131
+Iteracion 28/100 finalizada. Supervivientes: 139 | Turno último agente evacuado: 87
+Iteracion 29/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 122
+Iteracion 30/100 finalizada. Supervivientes: 110 | Turno último agente evacuado: 69
+Iteracion 31/100 finalizada. Supervivientes: 147 | Turno último agente evacuado: 92
+Iteracion 32/100 finalizada. Supervivientes: 102 | Turno último agente evacuado: 66
+Iteracion 33/100 finalizada. Supervivientes: 91 | Turno último agente evacuado: 53
+Iteracion 34/100 finalizada. Supervivientes: 66 | Turno último agente evacuado: 41
+Iteracion 35/100 finalizada. Supervivientes: 168 | Turno último agente evacuado: 100
+Iteracion 36/100 finalizada. Supervivientes: 158 | Turno último agente evacuado: 101
+Iteracion 37/100 finalizada. Supervivientes: 77 | Turno último agente evacuado: 47
+Iteracion 38/100 finalizada. Supervivientes: 40 | Turno último agente evacuado: 28
+Iteracion 39/100 finalizada. Supervivientes: 130 | Turno último agente evacuado: 82
+Iteracion 40/100 finalizada. Supervivientes: 128 | Turno último agente evacuado: 81
+Iteracion 41/100 finalizada. Supervivientes: 63 | Turno último agente evacuado: 33
+Iteracion 42/100 finalizada. Supervivientes: 59 | Turno último agente evacuado: 36
+Iteracion 43/100 finalizada. Supervivientes: 108 | Turno último agente evacuado: 64
+Iteracion 44/100 finalizada. Supervivientes: 106 | Turno último agente evacuado: 63
+Iteracion 45/100 finalizada. Supervivientes: 128 | Turno último agente evacuado: 77
+Iteracion 46/100 finalizada. Supervivientes: 157 | Turno último agente evacuado: 94
+Iteracion 47/100 finalizada. Supervivientes: 130 | Turno último agente evacuado: 81
+Iteracion 48/100 finalizada. Supervivientes: 40 | Turno último agente evacuado: 28
+Iteracion 49/100 finalizada. Supervivientes: 34 | Turno último agente evacuado: 25
+Iteracion 50/100 finalizada. Supervivientes: 68 | Turno último agente evacuado: 40
+Iteracion 51/100 finalizada. Supervivientes: 137 | Turno último agente evacuado: 84
+Iteracion 52/100 finalizada. Supervivientes: 166 | Turno último agente evacuado: 101
+Iteracion 53/100 finalizada. Supervivientes: 164 | Turno último agente evacuado: 102
+Iteracion 54/100 finalizada. Supervivientes: 62 | Turno último agente evacuado: 36
+Iteracion 55/100 finalizada. Supervivientes: 128 | Turno último agente evacuado: 78
+Iteracion 56/100 finalizada. Supervivientes: 158 | Turno último agente evacuado: 96
+Iteracion 57/100 finalizada. Supervivientes: 94 | Turno último agente evacuado: 55
+Iteracion 58/100 finalizada. Supervivientes: 157 | Turno último agente evacuado: 104
+Iteracion 59/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 127
+Iteracion 60/100 finalizada. Supervivientes: 87 | Turno último agente evacuado: 52
+Iteracion 61/100 finalizada. Supervivientes: 41 | Turno último agente evacuado: 25
+Iteracion 62/100 finalizada. Supervivientes: 156 | Turno último agente evacuado: 100
+Iteracion 63/100 finalizada. Supervivientes: 165 | Turno último agente evacuado: 106
+Iteracion 64/100 finalizada. Supervivientes: 115 | Turno último agente evacuado: 69
+Iteracion 65/100 finalizada. Supervivientes: 146 | Turno último agente evacuado: 90
+Iteracion 66/100 finalizada. Supervivientes: 56 | Turno último agente evacuado: 34
+Iteracion 67/100 finalizada. Supervivientes: 47 | Turno último agente evacuado: 31
+Iteracion 68/100 finalizada. Supervivientes: 173 | Turno último agente evacuado: 108
+Iteracion 69/100 finalizada. Supervivientes: 185 | Turno último agente evacuado: 115
+Iteracion 70/100 finalizada. Supervivientes: 70 | Turno último agente evacuado: 46
+Iteracion 71/100 finalizada. Supervivientes: 161 | Turno último agente evacuado: 99
+Iteracion 72/100 finalizada. Supervivientes: 156 | Turno último agente evacuado: 91
+Iteracion 73/100 finalizada. Supervivientes: 69 | Turno último agente evacuado: 42
+Iteracion 74/100 finalizada. Supervivientes: 54 | Turno último agente evacuado: 34
+Iteracion 75/100 finalizada. Supervivientes: 82 | Turno último agente evacuado: 50
+Iteracion 76/100 finalizada. Supervivientes: 159 | Turno último agente evacuado: 99
+Iteracion 77/100 finalizada. Supervivientes: 55 | Turno último agente evacuado: 31
+Iteracion 78/100 finalizada. Supervivientes: 96 | Turno último agente evacuado: 58
+Iteracion 79/100 finalizada. Supervivientes: 49 | Turno último agente evacuado: 34
+Iteracion 80/100 finalizada. Supervivientes: 86 | Turno último agente evacuado: 53
+Iteracion 81/100 finalizada. Supervivientes: 186 | Turno último agente evacuado: 124
+Iteracion 82/100 finalizada. Supervivientes: 35 | Turno último agente evacuado: 26
+Iteracion 83/100 finalizada. Supervivientes: 98 | Turno último agente evacuado: 61
+Iteracion 84/100 finalizada. Supervivientes: 42 | Turno último agente evacuado: 26
+Iteracion 85/100 finalizada. Supervivientes: 153 | Turno último agente evacuado: 97
+Iteracion 86/100 finalizada. Supervivientes: 65 | Turno último agente evacuado: 38
+Iteracion 87/100 finalizada. Supervivientes: 102 | Turno último agente evacuado: 61
+Iteracion 88/100 finalizada. Supervivientes: 73 | Turno último agente evacuado: 45
+Iteracion 89/100 finalizada. Supervivientes: 71 | Turno último agente evacuado: 39
+Iteracion 90/100 finalizada. Supervivientes: 51 | Turno último agente evacuado: 30
+Iteracion 91/100 finalizada. Supervivientes: 165 | Turno último agente evacuado: 99
+Iteracion 92/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 133
+Iteracion 93/100 finalizada. Supervivientes: 112 | Turno último agente evacuado: 69
+Iteracion 94/100 finalizada. Supervivientes: 158 | Turno último agente evacuado: 97
+Iteracion 95/100 finalizada. Supervivientes: 161 | Turno último agente evacuado: 98
+Iteracion 96/100 finalizada. Supervivientes: 176 | Turno último agente evacuado: 105
+Iteracion 97/100 finalizada. Supervivientes: 70 | Turno último agente evacuado: 44
+Iteracion 98/100 finalizada. Supervivientes: 73 | Turno último agente evacuado: 44
+Iteracion 99/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 130
+Iteracion 100/100 finalizada. Supervivientes: 152 | Turno último agente evacuado: 99
+
+RESULTADOS BENCHMARK GENETICO MAPA ALTA DENSIDAD
+Tasa de Supervivencia Promedio = 56.37%
+Tiempo de despeje Medio = 70.08 turnos
+Desviación Estándar = 31.20 turnos
+Tiempo Mínimo = 25 turnos
+Tiempo Máximo = 133 turnos
+
+
+
+--------------------
+DE AQUI HACIA ABAJO LOS RESULTADOS EN MAPA MEDIA DENSIDAD
+--------------------
+
+BFS
+Iniciando Benchmark: BFS en Media Densidad (100 iteraciones)
+Iteracion 1/100 finalizada. Supervivientes: 194 | Turno último agente evacuado: 78
+Iteracion 2/100 finalizada. Supervivientes: 32 | Turno último agente evacuado: 20
+Iteracion 3/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 78
+Iteracion 4/100 finalizada. Supervivientes: 125 | Turno último agente evacuado: 53
+Iteracion 5/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 77
+Iteracion 6/100 finalizada. Supervivientes: 160 | Turno último agente evacuado: 67
+Iteracion 7/100 finalizada. Supervivientes: 193 | Turno último agente evacuado: 77
+Iteracion 8/100 finalizada. Supervivientes: 128 | Turno último agente evacuado: 53
+Iteracion 9/100 finalizada. Supervivientes: 79 | Turno último agente evacuado: 36
+Iteracion 10/100 finalizada. Supervivientes: 54 | Turno último agente evacuado: 26
+Iteracion 11/100 finalizada. Supervivientes: 191 | Turno último agente evacuado: 76
+Iteracion 12/100 finalizada. Supervivientes: 58 | Turno último agente evacuado: 28
+Iteracion 13/100 finalizada. Supervivientes: 178 | Turno último agente evacuado: 70
+Iteracion 14/100 finalizada. Supervivientes: 142 | Turno último agente evacuado: 59
+Iteracion 15/100 finalizada. Supervivientes: 77 | Turno último agente evacuado: 32
+Iteracion 16/100 finalizada. Supervivientes: 75 | Turno último agente evacuado: 36
+Iteracion 17/100 finalizada. Supervivientes: 98 | Turno último agente evacuado: 42
+Iteracion 18/100 finalizada. Supervivientes: 199 | Turno último agente evacuado: 78
+Iteracion 19/100 finalizada. Supervivientes: 118 | Turno último agente evacuado: 50
+Iteracion 20/100 finalizada. Supervivientes: 184 | Turno último agente evacuado: 75
+Iteracion 21/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 44
+Iteracion 22/100 finalizada. Supervivientes: 79 | Turno último agente evacuado: 32
+Iteracion 23/100 finalizada. Supervivientes: 54 | Turno último agente evacuado: 26
+Iteracion 24/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 76
+Iteracion 25/100 finalizada. Supervivientes: 44 | Turno último agente evacuado: 22
+Iteracion 26/100 finalizada. Supervivientes: 176 | Turno último agente evacuado: 71
+Iteracion 27/100 finalizada. Supervivientes: 194 | Turno último agente evacuado: 77
+Iteracion 28/100 finalizada. Supervivientes: 100 | Turno último agente evacuado: 44
+Iteracion 29/100 finalizada. Supervivientes: 128 | Turno último agente evacuado: 53
+Iteracion 30/100 finalizada. Supervivientes: 158 | Turno último agente evacuado: 67
+Iteracion 31/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 77
+Iteracion 32/100 finalizada. Supervivientes: 146 | Turno último agente evacuado: 59
+Iteracion 33/100 finalizada. Supervivientes: 160 | Turno último agente evacuado: 65
+Iteracion 34/100 finalizada. Supervivientes: 90 | Turno último agente evacuado: 40
+Iteracion 35/100 finalizada. Supervivientes: 61 | Turno último agente evacuado: 28
+Iteracion 36/100 finalizada. Supervivientes: 179 | Turno último agente evacuado: 73
+Iteracion 37/100 finalizada. Supervivientes: 98 | Turno último agente evacuado: 41
+Iteracion 38/100 finalizada. Supervivientes: 75 | Turno último agente evacuado: 34
+Iteracion 39/100 finalizada. Supervivientes: 191 | Turno último agente evacuado: 76
+Iteracion 40/100 finalizada. Supervivientes: 99 | Turno último agente evacuado: 44
+Iteracion 41/100 finalizada. Supervivientes: 102 | Turno último agente evacuado: 44
+Iteracion 42/100 finalizada. Supervivientes: 111 | Turno último agente evacuado: 48
+Iteracion 43/100 finalizada. Supervivientes: 186 | Turno último agente evacuado: 72
+Iteracion 44/100 finalizada. Supervivientes: 193 | Turno último agente evacuado: 78
+Iteracion 45/100 finalizada. Supervivientes: 192 | Turno último agente evacuado: 76
+Iteracion 46/100 finalizada. Supervivientes: 197 | Turno último agente evacuado: 81
+Iteracion 47/100 finalizada. Supervivientes: 193 | Turno último agente evacuado: 78
+Iteracion 48/100 finalizada. Supervivientes: 92 | Turno último agente evacuado: 39
+Iteracion 49/100 finalizada. Supervivientes: 67 | Turno último agente evacuado: 30
+Iteracion 50/100 finalizada. Supervivientes: 142 | Turno último agente evacuado: 61
+Iteracion 51/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 77
+Iteracion 52/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 79
+Iteracion 53/100 finalizada. Supervivientes: 103 | Turno último agente evacuado: 46
+Iteracion 54/100 finalizada. Supervivientes: 53 | Turno último agente evacuado: 26
+Iteracion 55/100 finalizada. Supervivientes: 187 | Turno último agente evacuado: 77
+Iteracion 56/100 finalizada. Supervivientes: 182 | Turno último agente evacuado: 72
+Iteracion 57/100 finalizada. Supervivientes: 187 | Turno último agente evacuado: 73
+Iteracion 58/100 finalizada. Supervivientes: 99 | Turno último agente evacuado: 44
+Iteracion 59/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 80
+Iteracion 60/100 finalizada. Supervivientes: 152 | Turno último agente evacuado: 65
+Iteracion 61/100 finalizada. Supervivientes: 50 | Turno último agente evacuado: 26
+Iteracion 62/100 finalizada. Supervivientes: 182 | Turno último agente evacuado: 74
+Iteracion 63/100 finalizada. Supervivientes: 198 | Turno último agente evacuado: 80
+Iteracion 64/100 finalizada. Supervivientes: 169 | Turno último agente evacuado: 69
+Iteracion 65/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 82
+Iteracion 66/100 finalizada. Supervivientes: 105 | Turno último agente evacuado: 46
+Iteracion 67/100 finalizada. Supervivientes: 67 | Turno último agente evacuado: 32
+Iteracion 68/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 76
+Iteracion 69/100 finalizada. Supervivientes: 189 | Turno último agente evacuado: 79
+Iteracion 70/100 finalizada. Supervivientes: 154 | Turno último agente evacuado: 65
+Iteracion 71/100 finalizada. Supervivientes: 62 | Turno último agente evacuado: 30
+Iteracion 72/100 finalizada. Supervivientes: 188 | Turno último agente evacuado: 74
+Iteracion 73/100 finalizada. Supervivientes: 119 | Turno último agente evacuado: 52
+Iteracion 74/100 finalizada. Supervivientes: 61 | Turno último agente evacuado: 28
+Iteracion 75/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 80
+Iteracion 76/100 finalizada. Supervivientes: 182 | Turno último agente evacuado: 73
+Iteracion 77/100 finalizada. Supervivientes: 82 | Turno último agente evacuado: 33
+Iteracion 78/100 finalizada. Supervivientes: 191 | Turno último agente evacuado: 76
+Iteracion 79/100 finalizada. Supervivientes: 83 | Turno último agente evacuado: 36
+Iteracion 80/100 finalizada. Supervivientes: 167 | Turno último agente evacuado: 69
+Iteracion 81/100 finalizada. Supervivientes: 56 | Turno último agente evacuado: 28
+Iteracion 82/100 finalizada. Supervivientes: 81 | Turno último agente evacuado: 36
+Iteracion 83/100 finalizada. Supervivientes: 179 | Turno último agente evacuado: 73
+Iteracion 84/100 finalizada. Supervivientes: 72 | Turno último agente evacuado: 32
+Iteracion 85/100 finalizada. Supervivientes: 175 | Turno último agente evacuado: 69
+Iteracion 86/100 finalizada. Supervivientes: 146 | Turno último agente evacuado: 61
+Iteracion 87/100 finalizada. Supervivientes: 198 | Turno último agente evacuado: 78
+Iteracion 88/100 finalizada. Supervivientes: 100 | Turno último agente evacuado: 42
+Iteracion 89/100 finalizada. Supervivientes: 50 | Turno último agente evacuado: 26
+Iteracion 90/100 finalizada. Supervivientes: 81 | Turno último agente evacuado: 32
+Iteracion 91/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 78
+Iteracion 92/100 finalizada. Supervivientes: 145 | Turno último agente evacuado: 60
+Iteracion 93/100 finalizada. Supervivientes: 160 | Turno último agente evacuado: 67
+Iteracion 94/100 finalizada. Supervivientes: 199 | Turno último agente evacuado: 82
+Iteracion 95/100 finalizada. Supervivientes: 191 | Turno último agente evacuado: 77
+Iteracion 96/100 finalizada. Supervivientes: 180 | Turno último agente evacuado: 71
+Iteracion 97/100 finalizada. Supervivientes: 103 | Turno último agente evacuado: 46
+Iteracion 98/100 finalizada. Supervivientes: 137 | Turno último agente evacuado: 57
+Iteracion 99/100 finalizada. Supervivientes: 143 | Turno último agente evacuado: 58
+Iteracion 100/100 finalizada. Supervivientes: 180 | Turno último agente evacuado: 71
+
+RESULTADOS BENCHMARK BFS MAPA MEDIA DENSIDAD
+Tasa de Supervivencia Promedio = 69.10%
+Tiempo de despeje Medio = 57.30 turnos
+Desviación Estándar = 19.36 turnos
+Tiempo Mínimo = 20 turnos
+Tiempo Máximo = 82 turnos
+
+UCS
+Iniciando Benchmark: UCS en Media Densidad (100 iteraciones)
+Iteracion 1/100 finalizada. Supervivientes: 169 | Turno último agente evacuado: 85
+Iteracion 2/100 finalizada. Supervivientes: 35 | Turno último agente evacuado: 22
+Iteracion 3/100 finalizada. Supervivientes: 175 | Turno último agente evacuado: 84
+Iteracion 4/100 finalizada. Supervivientes: 117 | Turno último agente evacuado: 57
+Iteracion 5/100 finalizada. Supervivientes: 181 | Turno último agente evacuado: 96
+Iteracion 6/100 finalizada. Supervivientes: 140 | Turno último agente evacuado: 72
+Iteracion 7/100 finalizada. Supervivientes: 183 | Turno último agente evacuado: 85
+Iteracion 8/100 finalizada. Supervivientes: 114 | Turno último agente evacuado: 55
+Iteracion 9/100 finalizada. Supervivientes: 75 | Turno último agente evacuado: 37
+Iteracion 10/100 finalizada. Supervivientes: 60 | Turno último agente evacuado: 28
+Iteracion 11/100 finalizada. Supervivientes: 185 | Turno último agente evacuado: 89
+Iteracion 12/100 finalizada. Supervivientes: 55 | Turno último agente evacuado: 29
+Iteracion 13/100 finalizada. Supervivientes: 173 | Turno último agente evacuado: 86
+Iteracion 14/100 finalizada. Supervivientes: 126 | Turno último agente evacuado: 63
+Iteracion 15/100 finalizada. Supervivientes: 72 | Turno último agente evacuado: 32
+Iteracion 16/100 finalizada. Supervivientes: 78 | Turno último agente evacuado: 37
+Iteracion 17/100 finalizada. Supervivientes: 90 | Turno último agente evacuado: 40
+Iteracion 18/100 finalizada. Supervivientes: 194 | Turno último agente evacuado: 96
+Iteracion 19/100 finalizada. Supervivientes: 107 | Turno último agente evacuado: 51
+Iteracion 20/100 finalizada. Supervivientes: 168 | Turno último agente evacuado: 87
+Iteracion 21/100 finalizada. Supervivientes: 91 | Turno último agente evacuado: 44
+Iteracion 22/100 finalizada. Supervivientes: 79 | Turno último agente evacuado: 36
+Iteracion 23/100 finalizada. Supervivientes: 48 | Turno último agente evacuado: 26
+Iteracion 24/100 finalizada. Supervivientes: 176 | Turno último agente evacuado: 90
+Iteracion 25/100 finalizada. Supervivientes: 44 | Turno último agente evacuado: 24
+Iteracion 26/100 finalizada. Supervivientes: 149 | Turno último agente evacuado: 72
+Iteracion 27/100 finalizada. Supervivientes: 192 | Turno último agente evacuado: 103
+Iteracion 28/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 44
+Iteracion 29/100 finalizada. Supervivientes: 113 | Turno último agente evacuado: 52
+Iteracion 30/100 finalizada. Supervivientes: 140 | Turno último agente evacuado: 70
+Iteracion 31/100 finalizada. Supervivientes: 166 | Turno último agente evacuado: 85
+Iteracion 32/100 finalizada. Supervivientes: 140 | Turno último agente evacuado: 68
+Iteracion 33/100 finalizada. Supervivientes: 140 | Turno último agente evacuado: 68
+Iteracion 34/100 finalizada. Supervivientes: 89 | Turno último agente evacuado: 40
+Iteracion 35/100 finalizada. Supervivientes: 61 | Turno último agente evacuado: 30
+Iteracion 36/100 finalizada. Supervivientes: 177 | Turno último agente evacuado: 87
+Iteracion 37/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 44
+Iteracion 38/100 finalizada. Supervivientes: 67 | Turno último agente evacuado: 34
+Iteracion 39/100 finalizada. Supervivientes: 189 | Turno último agente evacuado: 89
+Iteracion 40/100 finalizada. Supervivientes: 98 | Turno último agente evacuado: 45
+Iteracion 41/100 finalizada. Supervivientes: 106 | Turno último agente evacuado: 45
+Iteracion 42/100 finalizada. Supervivientes: 101 | Turno último agente evacuado: 49
+Iteracion 43/100 finalizada. Supervivientes: 182 | Turno último agente evacuado: 88
+Iteracion 44/100 finalizada. Supervivientes: 193 | Turno último agente evacuado: 100
+Iteracion 45/100 finalizada. Supervivientes: 167 | Turno último agente evacuado: 83
+Iteracion 46/100 finalizada. Supervivientes: 188 | Turno último agente evacuado: 92
+Iteracion 47/100 finalizada. Supervivientes: 156 | Turno último agente evacuado: 84
+Iteracion 48/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 43
+Iteracion 49/100 finalizada. Supervivientes: 65 | Turno último agente evacuado: 30
+Iteracion 50/100 finalizada. Supervivientes: 130 | Turno último agente evacuado: 62
+Iteracion 51/100 finalizada. Supervivientes: 169 | Turno último agente evacuado: 84
+Iteracion 52/100 finalizada. Supervivientes: 198 | Turno último agente evacuado: 91
+Iteracion 53/100 finalizada. Supervivientes: 98 | Turno último agente evacuado: 46
+Iteracion 54/100 finalizada. Supervivientes: 56 | Turno último agente evacuado: 28
+Iteracion 55/100 finalizada. Supervivientes: 158 | Turno último agente evacuado: 78
+Iteracion 56/100 finalizada. Supervivientes: 183 | Turno último agente evacuado: 88
+Iteracion 57/100 finalizada. Supervivientes: 179 | Turno último agente evacuado: 95
+Iteracion 58/100 finalizada. Supervivientes: 97 | Turno último agente evacuado: 46
+Iteracion 59/100 finalizada. Supervivientes: 194 | Turno último agente evacuado: 97
+Iteracion 60/100 finalizada. Supervivientes: 139 | Turno último agente evacuado: 66
+Iteracion 61/100 finalizada. Supervivientes: 46 | Turno último agente evacuado: 28
+Iteracion 62/100 finalizada. Supervivientes: 184 | Turno último agente evacuado: 87
+Iteracion 63/100 finalizada. Supervivientes: 184 | Turno último agente evacuado: 92
+Iteracion 64/100 finalizada. Supervivientes: 146 | Turno último agente evacuado: 72
+Iteracion 65/100 finalizada. Supervivientes: 193 | Turno último agente evacuado: 93
+Iteracion 66/100 finalizada. Supervivientes: 102 | Turno último agente evacuado: 46
+Iteracion 67/100 finalizada. Supervivientes: 71 | Turno último agente evacuado: 34
+Iteracion 68/100 finalizada. Supervivientes: 177 | Turno último agente evacuado: 92
+Iteracion 69/100 finalizada. Supervivientes: 180 | Turno último agente evacuado: 94
+Iteracion 70/100 finalizada. Supervivientes: 132 | Turno último agente evacuado: 66
+Iteracion 71/100 finalizada. Supervivientes: 62 | Turno último agente evacuado: 32
+Iteracion 72/100 finalizada. Supervivientes: 181 | Turno último agente evacuado: 85
+Iteracion 73/100 finalizada. Supervivientes: 114 | Turno último agente evacuado: 53
+Iteracion 74/100 finalizada. Supervivientes: 58 | Turno último agente evacuado: 29
+Iteracion 75/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 105
+Iteracion 76/100 finalizada. Supervivientes: 177 | Turno último agente evacuado: 83
+Iteracion 77/100 finalizada. Supervivientes: 81 | Turno último agente evacuado: 36
+Iteracion 78/100 finalizada. Supervivientes: 186 | Turno último agente evacuado: 94
+Iteracion 79/100 finalizada. Supervivientes: 78 | Turno último agente evacuado: 37
+Iteracion 80/100 finalizada. Supervivientes: 146 | Turno último agente evacuado: 68
+Iteracion 81/100 finalizada. Supervivientes: 59 | Turno último agente evacuado: 29
+Iteracion 82/100 finalizada. Supervivientes: 81 | Turno último agente evacuado: 37
+Iteracion 83/100 finalizada. Supervivientes: 167 | Turno último agente evacuado: 75
+Iteracion 84/100 finalizada. Supervivientes: 72 | Turno último agente evacuado: 34
+Iteracion 85/100 finalizada. Supervivientes: 176 | Turno último agente evacuado: 88
+Iteracion 86/100 finalizada. Supervivientes: 118 | Turno último agente evacuado: 59
+Iteracion 87/100 finalizada. Supervivientes: 193 | Turno último agente evacuado: 97
+Iteracion 88/100 finalizada. Supervivientes: 88 | Turno último agente evacuado: 42
+Iteracion 89/100 finalizada. Supervivientes: 49 | Turno último agente evacuado: 28
+Iteracion 90/100 finalizada. Supervivientes: 84 | Turno último agente evacuado: 35
+Iteracion 91/100 finalizada. Supervivientes: 194 | Turno último agente evacuado: 95
+Iteracion 92/100 finalizada. Supervivientes: 135 | Turno último agente evacuado: 66
+Iteracion 93/100 finalizada. Supervivientes: 141 | Turno último agente evacuado: 68
+Iteracion 94/100 finalizada. Supervivientes: 186 | Turno último agente evacuado: 96
+Iteracion 95/100 finalizada. Supervivientes: 173 | Turno último agente evacuado: 82
+Iteracion 96/100 finalizada. Supervivientes: 173 | Turno último agente evacuado: 77
+Iteracion 97/100 finalizada. Supervivientes: 103 | Turno último agente evacuado: 47
+Iteracion 98/100 finalizada. Supervivientes: 126 | Turno último agente evacuado: 62
+Iteracion 99/100 finalizada. Supervivientes: 130 | Turno último agente evacuado: 66
+Iteracion 100/100 finalizada. Supervivientes: 177 | Turno último agente evacuado: 89
+
+RESULTADOS BENCHMARK UCS MAPA MEDIA DENSIDAD
+Tasa de Supervivencia Promedio = 65.10%
+Tiempo de despeje Medio = 63.75 turnos
+Desviación Estándar = 24.63 turnos
+Tiempo Mínimo = 22 turnos
+Tiempo Máximo = 105 turnos
+
+GREEDY
+Iniciando Benchmark: Greedy en Media Densidad (100 iteraciones)
+Iteracion 1/100 finalizada. Supervivientes: 184 | Turno último agente evacuado: 81
+Iteracion 2/100 finalizada. Supervivientes: 32 | Turno último agente evacuado: 20
+Iteracion 3/100 finalizada. Supervivientes: 182 | Turno último agente evacuado: 81
+Iteracion 4/100 finalizada. Supervivientes: 117 | Turno último agente evacuado: 53
+Iteracion 5/100 finalizada. Supervivientes: 192 | Turno último agente evacuado: 88
+Iteracion 6/100 finalizada. Supervivientes: 134 | Turno último agente evacuado: 67
+Iteracion 7/100 finalizada. Supervivientes: 184 | Turno último agente evacuado: 84
+Iteracion 8/100 finalizada. Supervivientes: 121 | Turno último agente evacuado: 53
+Iteracion 9/100 finalizada. Supervivientes: 76 | Turno último agente evacuado: 36
+Iteracion 10/100 finalizada. Supervivientes: 52 | Turno último agente evacuado: 26
+Iteracion 11/100 finalizada. Supervivientes: 179 | Turno último agente evacuado: 73
+Iteracion 12/100 finalizada. Supervivientes: 46 | Turno último agente evacuado: 28
+Iteracion 13/100 finalizada. Supervivientes: 172 | Turno último agente evacuado: 72
+Iteracion 14/100 finalizada. Supervivientes: 129 | Turno último agente evacuado: 59
+Iteracion 15/100 finalizada. Supervivientes: 75 | Turno último agente evacuado: 32
+Iteracion 16/100 finalizada. Supervivientes: 74 | Turno último agente evacuado: 36
+Iteracion 17/100 finalizada. Supervivientes: 87 | Turno último agente evacuado: 39
+Iteracion 18/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 80
+Iteracion 19/100 finalizada. Supervivientes: 102 | Turno último agente evacuado: 44
+Iteracion 20/100 finalizada. Supervivientes: 182 | Turno último agente evacuado: 83
+Iteracion 21/100 finalizada. Supervivientes: 84 | Turno último agente evacuado: 44
+Iteracion 22/100 finalizada. Supervivientes: 77 | Turno último agente evacuado: 32
+Iteracion 23/100 finalizada. Supervivientes: 44 | Turno último agente evacuado: 26
+Iteracion 24/100 finalizada. Supervivientes: 186 | Turno último agente evacuado: 84
+Iteracion 25/100 finalizada. Supervivientes: 45 | Turno último agente evacuado: 22
+Iteracion 26/100 finalizada. Supervivientes: 152 | Turno último agente evacuado: 71
+Iteracion 27/100 finalizada. Supervivientes: 194 | Turno último agente evacuado: 85
+Iteracion 28/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 44
+Iteracion 29/100 finalizada. Supervivientes: 113 | Turno último agente evacuado: 52
+Iteracion 30/100 finalizada. Supervivientes: 154 | Turno último agente evacuado: 67
+Iteracion 31/100 finalizada. Supervivientes: 178 | Turno último agente evacuado: 81
+Iteracion 32/100 finalizada. Supervivientes: 142 | Turno último agente evacuado: 63
+Iteracion 33/100 finalizada. Supervivientes: 136 | Turno último agente evacuado: 65
+Iteracion 34/100 finalizada. Supervivientes: 89 | Turno último agente evacuado: 40
+Iteracion 35/100 finalizada. Supervivientes: 51 | Turno último agente evacuado: 28
+Iteracion 36/100 finalizada. Supervivientes: 173 | Turno último agente evacuado: 74
+Iteracion 37/100 finalizada. Supervivientes: 98 | Turno último agente evacuado: 44
+Iteracion 38/100 finalizada. Supervivientes: 72 | Turno último agente evacuado: 34
+Iteracion 39/100 finalizada. Supervivientes: 198 | Turno último agente evacuado: 80
+Iteracion 40/100 finalizada. Supervivientes: 94 | Turno último agente evacuado: 41
+Iteracion 41/100 finalizada. Supervivientes: 96 | Turno último agente evacuado: 41
+Iteracion 42/100 finalizada. Supervivientes: 102 | Turno último agente evacuado: 45
+Iteracion 43/100 finalizada. Supervivientes: 186 | Turno último agente evacuado: 84
+Iteracion 44/100 finalizada. Supervivientes: 193 | Turno último agente evacuado: 86
+Iteracion 45/100 finalizada. Supervivientes: 184 | Turno último agente evacuado: 83
+Iteracion 46/100 finalizada. Supervivientes: 189 | Turno último agente evacuado: 80
+Iteracion 47/100 finalizada. Supervivientes: 181 | Turno último agente evacuado: 79
+Iteracion 48/100 finalizada. Supervivientes: 78 | Turno último agente evacuado: 42
+Iteracion 49/100 finalizada. Supervivientes: 63 | Turno último agente evacuado: 30
+Iteracion 50/100 finalizada. Supervivientes: 137 | Turno último agente evacuado: 61
+Iteracion 51/100 finalizada. Supervivientes: 181 | Turno último agente evacuado: 81
+Iteracion 52/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 79
+Iteracion 53/100 finalizada. Supervivientes: 99 | Turno último agente evacuado: 43
+Iteracion 54/100 finalizada. Supervivientes: 52 | Turno último agente evacuado: 26
+Iteracion 55/100 finalizada. Supervivientes: 170 | Turno último agente evacuado: 77
+Iteracion 56/100 finalizada. Supervivientes: 183 | Turno último agente evacuado: 74
+Iteracion 57/100 finalizada. Supervivientes: 187 | Turno último agente evacuado: 85
+Iteracion 58/100 finalizada. Supervivientes: 92 | Turno último agente evacuado: 41
+Iteracion 59/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 89
+Iteracion 60/100 finalizada. Supervivientes: 138 | Turno último agente evacuado: 65
+Iteracion 61/100 finalizada. Supervivientes: 44 | Turno último agente evacuado: 26
+Iteracion 62/100 finalizada. Supervivientes: 183 | Turno último agente evacuado: 77
+Iteracion 63/100 finalizada. Supervivientes: 194 | Turno último agente evacuado: 83
+Iteracion 64/100 finalizada. Supervivientes: 155 | Turno último agente evacuado: 69
+Iteracion 65/100 finalizada. Supervivientes: 189 | Turno último agente evacuado: 81
+Iteracion 66/100 finalizada. Supervivientes: 101 | Turno último agente evacuado: 43
+Iteracion 67/100 finalizada. Supervivientes: 61 | Turno último agente evacuado: 32
+Iteracion 68/100 finalizada. Supervivientes: 193 | Turno último agente evacuado: 86
+Iteracion 69/100 finalizada. Supervivientes: 193 | Turno último agente evacuado: 90
+Iteracion 70/100 finalizada. Supervivientes: 131 | Turno último agente evacuado: 65
+Iteracion 71/100 finalizada. Supervivientes: 58 | Turno último agente evacuado: 30
+Iteracion 72/100 finalizada. Supervivientes: 178 | Turno último agente evacuado: 71
+Iteracion 73/100 finalizada. Supervivientes: 109 | Turno último agente evacuado: 49
+Iteracion 74/100 finalizada. Supervivientes: 58 | Turno último agente evacuado: 28
+Iteracion 75/100 finalizada. Supervivientes: 200 | Turno último agente evacuado: 90
+Iteracion 76/100 finalizada. Supervivientes: 171 | Turno último agente evacuado: 71
+Iteracion 77/100 finalizada. Supervivientes: 74 | Turno último agente evacuado: 31
+Iteracion 78/100 finalizada. Supervivientes: 191 | Turno último agente evacuado: 86
+Iteracion 79/100 finalizada. Supervivientes: 69 | Turno último agente evacuado: 36
+Iteracion 80/100 finalizada. Supervivientes: 139 | Turno último agente evacuado: 69
+Iteracion 81/100 finalizada. Supervivientes: 56 | Turno último agente evacuado: 28
+Iteracion 82/100 finalizada. Supervivientes: 77 | Turno último agente evacuado: 36
+Iteracion 83/100 finalizada. Supervivientes: 162 | Turno último agente evacuado: 73
+Iteracion 84/100 finalizada. Supervivientes: 64 | Turno último agente evacuado: 32
+Iteracion 85/100 finalizada. Supervivientes: 176 | Turno último agente evacuado: 74
+Iteracion 86/100 finalizada. Supervivientes: 132 | Turno último agente evacuado: 61
+Iteracion 87/100 finalizada. Supervivientes: 198 | Turno último agente evacuado: 88
+Iteracion 88/100 finalizada. Supervivientes: 99 | Turno último agente evacuado: 42
+Iteracion 89/100 finalizada. Supervivientes: 45 | Turno último agente evacuado: 26
+Iteracion 90/100 finalizada. Supervivientes: 82 | Turno último agente evacuado: 32
+Iteracion 91/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 77
+Iteracion 92/100 finalizada. Supervivientes: 138 | Turno último agente evacuado: 61
+Iteracion 93/100 finalizada. Supervivientes: 143 | Turno último agente evacuado: 67
+Iteracion 94/100 finalizada. Supervivientes: 183 | Turno último agente evacuado: 78
+Iteracion 95/100 finalizada. Supervivientes: 182 | Turno último agente evacuado: 83
+Iteracion 96/100 finalizada. Supervivientes: 170 | Turno último agente evacuado: 71
+Iteracion 97/100 finalizada. Supervivientes: 99 | Turno último agente evacuado: 46
+Iteracion 98/100 finalizada. Supervivientes: 126 | Turno último agente evacuado: 57
+Iteracion 99/100 finalizada. Supervivientes: 142 | Turno último agente evacuado: 63
+Iteracion 100/100 finalizada. Supervivientes: 169 | Turno último agente evacuado: 71
+
+RESULTADOS BENCHMARK GREEDY BEST FIRST SEARCH MAPA MEDIA DENSIDAD
+Tasa de Supervivencia Promedio = 65.61%
+Tiempo de despeje Medio = 58.82 turnos
+Desviación Estándar = 21.43 turnos
+Tiempo Mínimo = 20 turnos
+Tiempo Máximo = 90 turnos
+
+A*
+Iniciando Benchmark: A* en Media Densidad (100 iteraciones)
+Iteracion 1/100 finalizada. Supervivientes: 168 | Turno último agente evacuado: 84
+Iteracion 2/100 finalizada. Supervivientes: 41 | Turno último agente evacuado: 22
+Iteracion 3/100 finalizada. Supervivientes: 171 | Turno último agente evacuado: 84
+Iteracion 4/100 finalizada. Supervivientes: 119 | Turno último agente evacuado: 57
+Iteracion 5/100 finalizada. Supervivientes: 178 | Turno último agente evacuado: 94
+Iteracion 6/100 finalizada. Supervivientes: 138 | Turno último agente evacuado: 65
+Iteracion 7/100 finalizada. Supervivientes: 175 | Turno último agente evacuado: 82
+Iteracion 8/100 finalizada. Supervivientes: 106 | Turno último agente evacuado: 53
+Iteracion 9/100 finalizada. Supervivientes: 79 | Turno último agente evacuado: 38
+Iteracion 10/100 finalizada. Supervivientes: 60 | Turno último agente evacuado: 28
+Iteracion 11/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 87
+Iteracion 12/100 finalizada. Supervivientes: 53 | Turno último agente evacuado: 29
+Iteracion 13/100 finalizada. Supervivientes: 174 | Turno último agente evacuado: 79
+Iteracion 14/100 finalizada. Supervivientes: 121 | Turno último agente evacuado: 63
+Iteracion 15/100 finalizada. Supervivientes: 71 | Turno último agente evacuado: 35
+Iteracion 16/100 finalizada. Supervivientes: 78 | Turno último agente evacuado: 37
+Iteracion 17/100 finalizada. Supervivientes: 89 | Turno último agente evacuado: 43
+Iteracion 18/100 finalizada. Supervivientes: 185 | Turno último agente evacuado: 87
+Iteracion 19/100 finalizada. Supervivientes: 109 | Turno último agente evacuado: 54
+Iteracion 20/100 finalizada. Supervivientes: 167 | Turno último agente evacuado: 82
+Iteracion 21/100 finalizada. Supervivientes: 97 | Turno último agente evacuado: 44
+Iteracion 22/100 finalizada. Supervivientes: 80 | Turno último agente evacuado: 35
+Iteracion 23/100 finalizada. Supervivientes: 50 | Turno último agente evacuado: 28
+Iteracion 24/100 finalizada. Supervivientes: 179 | Turno último agente evacuado: 90
+Iteracion 25/100 finalizada. Supervivientes: 48 | Turno último agente evacuado: 24
+Iteracion 26/100 finalizada. Supervivientes: 150 | Turno último agente evacuado: 75
+Iteracion 27/100 finalizada. Supervivientes: 182 | Turno último agente evacuado: 93
+Iteracion 28/100 finalizada. Supervivientes: 89 | Turno último agente evacuado: 46
+Iteracion 29/100 finalizada. Supervivientes: 126 | Turno último agente evacuado: 57
+Iteracion 30/100 finalizada. Supervivientes: 136 | Turno último agente evacuado: 70
+Iteracion 31/100 finalizada. Supervivientes: 167 | Turno último agente evacuado: 85
+Iteracion 32/100 finalizada. Supervivientes: 131 | Turno último agente evacuado: 66
+Iteracion 33/100 finalizada. Supervivientes: 138 | Turno último agente evacuado: 68
+Iteracion 34/100 finalizada. Supervivientes: 93 | Turno último agente evacuado: 39
+Iteracion 35/100 finalizada. Supervivientes: 59 | Turno último agente evacuado: 30
+Iteracion 36/100 finalizada. Supervivientes: 176 | Turno último agente evacuado: 80
+Iteracion 37/100 finalizada. Supervivientes: 93 | Turno último agente evacuado: 42
+Iteracion 38/100 finalizada. Supervivientes: 66 | Turno último agente evacuado: 35
+Iteracion 39/100 finalizada. Supervivientes: 185 | Turno último agente evacuado: 88
+Iteracion 40/100 finalizada. Supervivientes: 99 | Turno último agente evacuado: 44
+Iteracion 41/100 finalizada. Supervivientes: 102 | Turno último agente evacuado: 45
+Iteracion 42/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 49
+Iteracion 43/100 finalizada. Supervivientes: 185 | Turno último agente evacuado: 90
+Iteracion 44/100 finalizada. Supervivientes: 184 | Turno último agente evacuado: 91
+Iteracion 45/100 finalizada. Supervivientes: 162 | Turno último agente evacuado: 84
+Iteracion 46/100 finalizada. Supervivientes: 179 | Turno último agente evacuado: 89
+Iteracion 47/100 finalizada. Supervivientes: 161 | Turno último agente evacuado: 83
+Iteracion 48/100 finalizada. Supervivientes: 90 | Turno último agente evacuado: 44
+Iteracion 49/100 finalizada. Supervivientes: 67 | Turno último agente evacuado: 32
+Iteracion 50/100 finalizada. Supervivientes: 130 | Turno último agente evacuado: 60
+Iteracion 51/100 finalizada. Supervivientes: 164 | Turno último agente evacuado: 85
+Iteracion 52/100 finalizada. Supervivientes: 196 | Turno último agente evacuado: 93
+Iteracion 53/100 finalizada. Supervivientes: 100 | Turno último agente evacuado: 45
+Iteracion 54/100 finalizada. Supervivientes: 53 | Turno último agente evacuado: 28
+Iteracion 55/100 finalizada. Supervivientes: 158 | Turno último agente evacuado: 80
+Iteracion 56/100 finalizada. Supervivientes: 181 | Turno último agente evacuado: 97
+Iteracion 57/100 finalizada. Supervivientes: 179 | Turno último agente evacuado: 96
+Iteracion 58/100 finalizada. Supervivientes: 90 | Turno último agente evacuado: 41
+Iteracion 59/100 finalizada. Supervivientes: 197 | Turno último agente evacuado: 99
+Iteracion 60/100 finalizada. Supervivientes: 134 | Turno último agente evacuado: 70
+Iteracion 61/100 finalizada. Supervivientes: 45 | Turno último agente evacuado: 26
+Iteracion 62/100 finalizada. Supervivientes: 183 | Turno último agente evacuado: 83
+Iteracion 63/100 finalizada. Supervivientes: 192 | Turno último agente evacuado: 93
+Iteracion 64/100 finalizada. Supervivientes: 143 | Turno último agente evacuado: 66
+Iteracion 65/100 finalizada. Supervivientes: 195 | Turno último agente evacuado: 92
+Iteracion 66/100 finalizada. Supervivientes: 102 | Turno último agente evacuado: 48
+Iteracion 67/100 finalizada. Supervivientes: 71 | Turno último agente evacuado: 34
+Iteracion 68/100 finalizada. Supervivientes: 174 | Turno último agente evacuado: 86
+Iteracion 69/100 finalizada. Supervivientes: 181 | Turno último agente evacuado: 94
+Iteracion 70/100 finalizada. Supervivientes: 138 | Turno último agente evacuado: 69
+Iteracion 71/100 finalizada. Supervivientes: 62 | Turno último agente evacuado: 30
+Iteracion 72/100 finalizada. Supervivientes: 182 | Turno último agente evacuado: 82
+Iteracion 73/100 finalizada. Supervivientes: 114 | Turno último agente evacuado: 53
+Iteracion 74/100 finalizada. Supervivientes: 54 | Turno último agente evacuado: 30
+Iteracion 75/100 finalizada. Supervivientes: 191 | Turno último agente evacuado: 94
+Iteracion 76/100 finalizada. Supervivientes: 174 | Turno último agente evacuado: 91
+Iteracion 77/100 finalizada. Supervivientes: 76 | Turno último agente evacuado: 33
+Iteracion 78/100 finalizada. Supervivientes: 184 | Turno último agente evacuado: 88
+Iteracion 79/100 finalizada. Supervivientes: 82 | Turno último agente evacuado: 38
+Iteracion 80/100 finalizada. Supervivientes: 146 | Turno último agente evacuado: 72
+Iteracion 81/100 finalizada. Supervivientes: 59 | Turno último agente evacuado: 30
+Iteracion 82/100 finalizada. Supervivientes: 76 | Turno último agente evacuado: 37
+Iteracion 83/100 finalizada. Supervivientes: 163 | Turno último agente evacuado: 77
+Iteracion 84/100 finalizada. Supervivientes: 72 | Turno último agente evacuado: 34
+Iteracion 85/100 finalizada. Supervivientes: 176 | Turno último agente evacuado: 80
+Iteracion 86/100 finalizada. Supervivientes: 126 | Turno último agente evacuado: 61
+Iteracion 87/100 finalizada. Supervivientes: 191 | Turno último agente evacuado: 100
+Iteracion 88/100 finalizada. Supervivientes: 89 | Turno último agente evacuado: 42
+Iteracion 89/100 finalizada. Supervivientes: 50 | Turno último agente evacuado: 27
+Iteracion 90/100 finalizada. Supervivientes: 90 | Turno último agente evacuado: 38
+Iteracion 91/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 88
+Iteracion 92/100 finalizada. Supervivientes: 135 | Turno último agente evacuado: 63
+Iteracion 93/100 finalizada. Supervivientes: 143 | Turno último agente evacuado: 70
+Iteracion 94/100 finalizada. Supervivientes: 181 | Turno último agente evacuado: 92
+Iteracion 95/100 finalizada. Supervivientes: 168 | Turno último agente evacuado: 86
+Iteracion 96/100 finalizada. Supervivientes: 173 | Turno último agente evacuado: 83
+Iteracion 97/100 finalizada. Supervivientes: 98 | Turno último agente evacuado: 47
+Iteracion 98/100 finalizada. Supervivientes: 119 | Turno último agente evacuado: 60
+Iteracion 99/100 finalizada. Supervivientes: 138 | Turno último agente evacuado: 67
+Iteracion 100/100 finalizada. Supervivientes: 173 | Turno último agente evacuado: 85
+
+RESULTADOS BENCHMARK A* MAPA MEDIA DENSIDAD
+Tasa de Supervivencia Promedio = 64.61%
+Tiempo de despeje Medio = 63.12 turnos
+Desviación Estándar = 23.75 turnos
+Tiempo Mínimo = 22 turnos
+Tiempo Máximo = 100 turnos
+
+GENETICO
+Iniciando Benchmark: Genetico en Media Densidad (100 iteraciones)
+Iteracion 1/100 finalizada. Supervivientes: 164 | Turno último agente evacuado: 82
+Iteracion 2/100 finalizada. Supervivientes: 38 | Turno último agente evacuado: 22
+Iteracion 3/100 finalizada. Supervivientes: 171 | Turno último agente evacuado: 85
+Iteracion 4/100 finalizada. Supervivientes: 117 | Turno último agente evacuado: 55
+Iteracion 5/100 finalizada. Supervivientes: 180 | Turno último agente evacuado: 92
+Iteracion 6/100 finalizada. Supervivientes: 141 | Turno último agente evacuado: 71
+Iteracion 7/100 finalizada. Supervivientes: 180 | Turno último agente evacuado: 87
+Iteracion 8/100 finalizada. Supervivientes: 115 | Turno último agente evacuado: 54
+Iteracion 9/100 finalizada. Supervivientes: 77 | Turno último agente evacuado: 38
+Iteracion 10/100 finalizada. Supervivientes: 56 | Turno último agente evacuado: 28
+Iteracion 11/100 finalizada. Supervivientes: 184 | Turno último agente evacuado: 88
+Iteracion 12/100 finalizada. Supervivientes: 53 | Turno último agente evacuado: 29
+Iteracion 13/100 finalizada. Supervivientes: 175 | Turno último agente evacuado: 79
+Iteracion 14/100 finalizada. Supervivientes: 123 | Turno último agente evacuado: 59
+Iteracion 15/100 finalizada. Supervivientes: 78 | Turno último agente evacuado: 36
+Iteracion 16/100 finalizada. Supervivientes: 78 | Turno último agente evacuado: 38
+Iteracion 17/100 finalizada. Supervivientes: 91 | Turno último agente evacuado: 42
+Iteracion 18/100 finalizada. Supervivientes: 186 | Turno último agente evacuado: 93
+Iteracion 19/100 finalizada. Supervivientes: 102 | Turno último agente evacuado: 54
+Iteracion 20/100 finalizada. Supervivientes: 167 | Turno último agente evacuado: 83
+Iteracion 21/100 finalizada. Supervivientes: 96 | Turno último agente evacuado: 45
+Iteracion 22/100 finalizada. Supervivientes: 79 | Turno último agente evacuado: 36
+Iteracion 23/100 finalizada. Supervivientes: 53 | Turno último agente evacuado: 28
+Iteracion 24/100 finalizada. Supervivientes: 182 | Turno último agente evacuado: 87
+Iteracion 25/100 finalizada. Supervivientes: 43 | Turno último agente evacuado: 23
+Iteracion 26/100 finalizada. Supervivientes: 153 | Turno último agente evacuado: 70
+Iteracion 27/100 finalizada. Supervivientes: 187 | Turno último agente evacuado: 81
+Iteracion 28/100 finalizada. Supervivientes: 96 | Turno último agente evacuado: 46
+Iteracion 29/100 finalizada. Supervivientes: 118 | Turno último agente evacuado: 58
+Iteracion 30/100 finalizada. Supervivientes: 142 | Turno último agente evacuado: 69
+Iteracion 31/100 finalizada. Supervivientes: 162 | Turno último agente evacuado: 84
+Iteracion 32/100 finalizada. Supervivientes: 130 | Turno último agente evacuado: 63
+Iteracion 33/100 finalizada. Supervivientes: 142 | Turno último agente evacuado: 66
+Iteracion 34/100 finalizada. Supervivientes: 93 | Turno último agente evacuado: 41
+Iteracion 35/100 finalizada. Supervivientes: 55 | Turno último agente evacuado: 30
+Iteracion 36/100 finalizada. Supervivientes: 178 | Turno último agente evacuado: 79
+Iteracion 37/100 finalizada. Supervivientes: 94 | Turno último agente evacuado: 45
+Iteracion 38/100 finalizada. Supervivientes: 74 | Turno último agente evacuado: 35
+Iteracion 39/100 finalizada. Supervivientes: 185 | Turno último agente evacuado: 88
+Iteracion 40/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 45
+Iteracion 41/100 finalizada. Supervivientes: 98 | Turno último agente evacuado: 44
+Iteracion 42/100 finalizada. Supervivientes: 101 | Turno último agente evacuado: 47
+Iteracion 43/100 finalizada. Supervivientes: 185 | Turno último agente evacuado: 82
+Iteracion 44/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 85
+Iteracion 45/100 finalizada. Supervivientes: 165 | Turno último agente evacuado: 83
+Iteracion 46/100 finalizada. Supervivientes: 177 | Turno último agente evacuado: 89
+Iteracion 47/100 finalizada. Supervivientes: 162 | Turno último agente evacuado: 81
+Iteracion 48/100 finalizada. Supervivientes: 93 | Turno último agente evacuado: 44
+Iteracion 49/100 finalizada. Supervivientes: 67 | Turno último agente evacuado: 33
+Iteracion 50/100 finalizada. Supervivientes: 129 | Turno último agente evacuado: 60
+Iteracion 51/100 finalizada. Supervivientes: 167 | Turno último agente evacuado: 81
+Iteracion 52/100 finalizada. Supervivientes: 189 | Turno último agente evacuado: 86
+Iteracion 53/100 finalizada. Supervivientes: 101 | Turno último agente evacuado: 48
+Iteracion 54/100 finalizada. Supervivientes: 54 | Turno último agente evacuado: 29
+Iteracion 55/100 finalizada. Supervivientes: 148 | Turno último agente evacuado: 77
+Iteracion 56/100 finalizada. Supervivientes: 183 | Turno último agente evacuado: 83
+Iteracion 57/100 finalizada. Supervivientes: 181 | Turno último agente evacuado: 89
+Iteracion 58/100 finalizada. Supervivientes: 98 | Turno último agente evacuado: 46
+Iteracion 59/100 finalizada. Supervivientes: 194 | Turno último agente evacuado: 90
+Iteracion 60/100 finalizada. Supervivientes: 139 | Turno último agente evacuado: 66
+Iteracion 61/100 finalizada. Supervivientes: 48 | Turno último agente evacuado: 28
+Iteracion 62/100 finalizada. Supervivientes: 185 | Turno último agente evacuado: 85
+Iteracion 63/100 finalizada. Supervivientes: 183 | Turno último agente evacuado: 90
+Iteracion 64/100 finalizada. Supervivientes: 145 | Turno último agente evacuado: 69
+Iteracion 65/100 finalizada. Supervivientes: 189 | Turno último agente evacuado: 93
+Iteracion 66/100 finalizada. Supervivientes: 105 | Turno último agente evacuado: 48
+Iteracion 67/100 finalizada. Supervivientes: 68 | Turno último agente evacuado: 33
+Iteracion 68/100 finalizada. Supervivientes: 177 | Turno último agente evacuado: 87
+Iteracion 69/100 finalizada. Supervivientes: 176 | Turno último agente evacuado: 91
+Iteracion 70/100 finalizada. Supervivientes: 136 | Turno último agente evacuado: 67
+Iteracion 71/100 finalizada. Supervivientes: 62 | Turno último agente evacuado: 31
+Iteracion 72/100 finalizada. Supervivientes: 187 | Turno último agente evacuado: 81
+Iteracion 73/100 finalizada. Supervivientes: 113 | Turno último agente evacuado: 52
+Iteracion 74/100 finalizada. Supervivientes: 62 | Turno último agente evacuado: 30
+Iteracion 75/100 finalizada. Supervivientes: 194 | Turno último agente evacuado: 93
+Iteracion 76/100 finalizada. Supervivientes: 178 | Turno último agente evacuado: 87
+Iteracion 77/100 finalizada. Supervivientes: 78 | Turno último agente evacuado: 36
+Iteracion 78/100 finalizada. Supervivientes: 188 | Turno último agente evacuado: 86
+Iteracion 79/100 finalizada. Supervivientes: 81 | Turno último agente evacuado: 39
+Iteracion 80/100 finalizada. Supervivientes: 146 | Turno último agente evacuado: 71
+Iteracion 81/100 finalizada. Supervivientes: 60 | Turno último agente evacuado: 30
+Iteracion 82/100 finalizada. Supervivientes: 83 | Turno último agente evacuado: 38
+Iteracion 83/100 finalizada. Supervivientes: 159 | Turno último agente evacuado: 72
+Iteracion 84/100 finalizada. Supervivientes: 68 | Turno último agente evacuado: 34
+Iteracion 85/100 finalizada. Supervivientes: 174 | Turno último agente evacuado: 78
+Iteracion 86/100 finalizada. Supervivientes: 127 | Turno último agente evacuado: 66
+Iteracion 87/100 finalizada. Supervivientes: 187 | Turno último agente evacuado: 84
+Iteracion 88/100 finalizada. Supervivientes: 94 | Turno último agente evacuado: 43
+Iteracion 89/100 finalizada. Supervivientes: 51 | Turno último agente evacuado: 28
+Iteracion 90/100 finalizada. Supervivientes: 82 | Turno último agente evacuado: 35
+Iteracion 91/100 finalizada. Supervivientes: 191 | Turno último agente evacuado: 88
+Iteracion 92/100 finalizada. Supervivientes: 133 | Turno último agente evacuado: 60
+Iteracion 93/100 finalizada. Supervivientes: 143 | Turno último agente evacuado: 71
+Iteracion 94/100 finalizada. Supervivientes: 182 | Turno último agente evacuado: 87
+Iteracion 95/100 finalizada. Supervivientes: 171 | Turno último agente evacuado: 82
+Iteracion 96/100 finalizada. Supervivientes: 179 | Turno último agente evacuado: 81
+Iteracion 97/100 finalizada. Supervivientes: 100 | Turno último agente evacuado: 48
+Iteracion 98/100 finalizada. Supervivientes: 126 | Turno último agente evacuado: 57
+Iteracion 99/100 finalizada. Supervivientes: 133 | Turno último agente evacuado: 66
+Iteracion 100/100 finalizada. Supervivientes: 179 | Turno último agente evacuado: 79
+
+RESULTADOS BENCHMARK GENETICO MAPA MEDIA DENSIDAD
+Tasa de Supervivencia Promedio = 64.89%
+Tiempo de despeje Medio = 62.01 turnos
+Desviación Estándar = 22.21 turnos
+Tiempo Mínimo = 22 turnos
+Tiempo Máximo = 93 turnos
+
+-----------------------
+DE AQUI HACIA ABAJO LOS RESULTADOS EN MAPA BAJA DENSIDAD
+-----------------------
+
+BSF
+Iniciando Benchmark: BFS en Baja Densidad (100 iteraciones)
+Iteracion 1/100 finalizada. Supervivientes: 78 | Turno último agente evacuado: 32
+Iteracion 2/100 finalizada. Supervivientes: 104 | Turno último agente evacuado: 42
+Iteracion 3/100 finalizada. Supervivientes: 147 | Turno último agente evacuado: 56
+Iteracion 4/100 finalizada. Supervivientes: 110 | Turno último agente evacuado: 46
+Iteracion 5/100 finalizada. Supervivientes: 171 | Turno último agente evacuado: 66
+Iteracion 6/100 finalizada. Supervivientes: 84 | Turno último agente evacuado: 35
+Iteracion 7/100 finalizada. Supervivientes: 106 | Turno último agente evacuado: 44
+Iteracion 8/100 finalizada. Supervivientes: 61 | Turno último agente evacuado: 26
+Iteracion 9/100 finalizada. Supervivientes: 79 | Turno último agente evacuado: 32
+Iteracion 10/100 finalizada. Supervivientes: 116 | Turno último agente evacuado: 46
+Iteracion 11/100 finalizada. Supervivientes: 73 | Turno último agente evacuado: 31
+Iteracion 12/100 finalizada. Supervivientes: 47 | Turno último agente evacuado: 21
+Iteracion 13/100 finalizada. Supervivientes: 158 | Turno último agente evacuado: 62
+Iteracion 14/100 finalizada. Supervivientes: 103 | Turno último agente evacuado: 41
+Iteracion 15/100 finalizada. Supervivientes: 84 | Turno último agente evacuado: 36
+Iteracion 16/100 finalizada. Supervivientes: 63 | Turno último agente evacuado: 26
+Iteracion 17/100 finalizada. Supervivientes: 72 | Turno último agente evacuado: 30
+Iteracion 18/100 finalizada. Supervivientes: 130 | Turno último agente evacuado: 50
+Iteracion 19/100 finalizada. Supervivientes: 69 | Turno último agente evacuado: 30
+Iteracion 20/100 finalizada. Supervivientes: 124 | Turno último agente evacuado: 48
+Iteracion 21/100 finalizada. Supervivientes: 131 | Turno último agente evacuado: 50
+Iteracion 22/100 finalizada. Supervivientes: 110 | Turno último agente evacuado: 43
+Iteracion 23/100 finalizada. Supervivientes: 73 | Turno último agente evacuado: 31
+Iteracion 24/100 finalizada. Supervivientes: 69 | Turno último agente evacuado: 28
+Iteracion 25/100 finalizada. Supervivientes: 68 | Turno último agente evacuado: 28
+Iteracion 26/100 finalizada. Supervivientes: 86 | Turno último agente evacuado: 34
+Iteracion 27/100 finalizada. Supervivientes: 146 | Turno último agente evacuado: 58
+Iteracion 28/100 finalizada. Supervivientes: 162 | Turno último agente evacuado: 62
+Iteracion 29/100 finalizada. Supervivientes: 79 | Turno último agente evacuado: 32
+Iteracion 30/100 finalizada. Supervivientes: 120 | Turno último agente evacuado: 47
+Iteracion 31/100 finalizada. Supervivientes: 73 | Turno último agente evacuado: 30
+Iteracion 32/100 finalizada. Supervivientes: 156 | Turno último agente evacuado: 60
+Iteracion 33/100 finalizada. Supervivientes: 114 | Turno último agente evacuado: 45
+Iteracion 34/100 finalizada. Supervivientes: 85 | Turno último agente evacuado: 35
+Iteracion 35/100 finalizada. Supervivientes: 38 | Turno último agente evacuado: 18
+Iteracion 36/100 finalizada. Supervivientes: 153 | Turno último agente evacuado: 60
+Iteracion 37/100 finalizada. Supervivientes: 56 | Turno último agente evacuado: 25
+Iteracion 38/100 finalizada. Supervivientes: 63 | Turno último agente evacuado: 26
+Iteracion 39/100 finalizada. Supervivientes: 61 | Turno último agente evacuado: 26
+Iteracion 40/100 finalizada. Supervivientes: 96 | Turno último agente evacuado: 38
+Iteracion 41/100 finalizada. Supervivientes: 108 | Turno último agente evacuado: 41
+Iteracion 42/100 finalizada. Supervivientes: 109 | Turno último agente evacuado: 43
+Iteracion 43/100 finalizada. Supervivientes: 116 | Turno último agente evacuado: 45
+Iteracion 44/100 finalizada. Supervivientes: 82 | Turno último agente evacuado: 33
+Iteracion 45/100 finalizada. Supervivientes: 75 | Turno último agente evacuado: 30
+Iteracion 46/100 finalizada. Supervivientes: 31 | Turno último agente evacuado: 17
+Iteracion 47/100 finalizada. Supervivientes: 47 | Turno último agente evacuado: 20
+Iteracion 48/100 finalizada. Supervivientes: 174 | Turno último agente evacuado: 66
+Iteracion 49/100 finalizada. Supervivientes: 77 | Turno último agente evacuado: 32
+Iteracion 50/100 finalizada. Supervivientes: 146 | Turno último agente evacuado: 56
+Iteracion 51/100 finalizada. Supervivientes: 66 | Turno último agente evacuado: 26
+Iteracion 52/100 finalizada. Supervivientes: 51 | Turno último agente evacuado: 22
+Iteracion 53/100 finalizada. Supervivientes: 114 | Turno último agente evacuado: 44
+Iteracion 54/100 finalizada. Supervivientes: 71 | Turno último agente evacuado: 29
+Iteracion 55/100 finalizada. Supervivientes: 66 | Turno último agente evacuado: 27
+Iteracion 56/100 finalizada. Supervivientes: 154 | Turno último agente evacuado: 58
+Iteracion 57/100 finalizada. Supervivientes: 129 | Turno último agente evacuado: 50
+Iteracion 58/100 finalizada. Supervivientes: 105 | Turno último agente evacuado: 43
+Iteracion 59/100 finalizada. Supervivientes: 117 | Turno último agente evacuado: 46
+Iteracion 60/100 finalizada. Supervivientes: 111 | Turno último agente evacuado: 44
+Iteracion 61/100 finalizada. Supervivientes: 52 | Turno último agente evacuado: 24
+Iteracion 62/100 finalizada. Supervivientes: 64 | Turno último agente evacuado: 26
+Iteracion 63/100 finalizada. Supervivientes: 38 | Turno último agente evacuado: 18
+Iteracion 64/100 finalizada. Supervivientes: 120 | Turno último agente evacuado: 48
+Iteracion 65/100 finalizada. Supervivientes: 44 | Turno último agente evacuado: 20
+Iteracion 66/100 finalizada. Supervivientes: 101 | Turno último agente evacuado: 41
+Iteracion 67/100 finalizada. Supervivientes: 109 | Turno último agente evacuado: 44
+Iteracion 68/100 finalizada. Supervivientes: 25 | Turno último agente evacuado: 15
+Iteracion 69/100 finalizada. Supervivientes: 31 | Turno último agente evacuado: 18
+Iteracion 70/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 38
+Iteracion 71/100 finalizada. Supervivientes: 50 | Turno último agente evacuado: 23
+Iteracion 72/100 finalizada. Supervivientes: 52 | Turno último agente evacuado: 22
+Iteracion 73/100 finalizada. Supervivientes: 103 | Turno último agente evacuado: 41
+Iteracion 74/100 finalizada. Supervivientes: 48 | Turno último agente evacuado: 21
+Iteracion 75/100 finalizada. Supervivientes: 67 | Turno último agente evacuado: 30
+Iteracion 76/100 finalizada. Supervivientes: 157 | Turno último agente evacuado: 60
+Iteracion 77/100 finalizada. Supervivientes: 100 | Turno último agente evacuado: 41
+Iteracion 78/100 finalizada. Supervivientes: 122 | Turno último agente evacuado: 48
+Iteracion 79/100 finalizada. Supervivientes: 73 | Turno último agente evacuado: 30
+Iteracion 80/100 finalizada. Supervivientes: 136 | Turno último agente evacuado: 54
+Iteracion 81/100 finalizada. Supervivientes: 128 | Turno último agente evacuado: 50
+Iteracion 82/100 finalizada. Supervivientes: 75 | Turno último agente evacuado: 30
+Iteracion 83/100 finalizada. Supervivientes: 108 | Turno último agente evacuado: 44
+Iteracion 84/100 finalizada. Supervivientes: 106 | Turno último agente evacuado: 42
+Iteracion 85/100 finalizada. Supervivientes: 71 | Turno último agente evacuado: 30
+Iteracion 86/100 finalizada. Supervivientes: 179 | Turno último agente evacuado: 70
+Iteracion 87/100 finalizada. Supervivientes: 56 | Turno último agente evacuado: 25
+Iteracion 88/100 finalizada. Supervivientes: 111 | Turno último agente evacuado: 45
+Iteracion 89/100 finalizada. Supervivientes: 80 | Turno último agente evacuado: 32
+Iteracion 90/100 finalizada. Supervivientes: 119 | Turno último agente evacuado: 46
+Iteracion 91/100 finalizada. Supervivientes: 133 | Turno último agente evacuado: 52
+Iteracion 92/100 finalizada. Supervivientes: 118 | Turno último agente evacuado: 45
+Iteracion 93/100 finalizada. Supervivientes: 43 | Turno último agente evacuado: 19
+Iteracion 94/100 finalizada. Supervivientes: 133 | Turno último agente evacuado: 52
+Iteracion 95/100 finalizada. Supervivientes: 35 | Turno último agente evacuado: 17
+Iteracion 96/100 finalizada. Supervivientes: 149 | Turno último agente evacuado: 58
+Iteracion 97/100 finalizada. Supervivientes: 131 | Turno último agente evacuado: 50
+Iteracion 98/100 finalizada. Supervivientes: 54 | Turno último agente evacuado: 24
+Iteracion 99/100 finalizada. Supervivientes: 106 | Turno último agente evacuado: 43
+Iteracion 100/100 finalizada. Supervivientes: 64 | Turno último agente evacuado: 27
+
+RESULTADOS BENCHMARK BFS MAPA BAJA DENSIDAD
+Tasa de Supervivencia Promedio = 47.26%
+Tiempo de despeje Medio = 38.11 turnos
+Desviación Estándar = 13.23 turnos
+Tiempo Mínimo = 15 turnos
+Tiempo Máximo = 70 turnos
+
+UCS
+Iniciando Benchmark: UCS en Baja Densidad (100 iteraciones)
+Iteracion 1/100 finalizada. Supervivientes: 96 | Turno último agente evacuado: 44
+Iteracion 2/100 finalizada. Supervivientes: 133 | Turno último agente evacuado: 58
+Iteracion 3/100 finalizada. Supervivientes: 179 | Turno último agente evacuado: 72
+Iteracion 4/100 finalizada. Supervivientes: 144 | Turno último agente evacuado: 64
+Iteracion 5/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 82
+Iteracion 6/100 finalizada. Supervivientes: 107 | Turno último agente evacuado: 47
+Iteracion 7/100 finalizada. Supervivientes: 148 | Turno último agente evacuado: 62
+Iteracion 8/100 finalizada. Supervivientes: 79 | Turno último agente evacuado: 36
+Iteracion 9/100 finalizada. Supervivientes: 98 | Turno último agente evacuado: 43
+Iteracion 10/100 finalizada. Supervivientes: 155 | Turno último agente evacuado: 63
+Iteracion 11/100 finalizada. Supervivientes: 85 | Turno último agente evacuado: 39
+Iteracion 12/100 finalizada. Supervivientes: 46 | Turno último agente evacuado: 24
+Iteracion 13/100 finalizada. Supervivientes: 181 | Turno último agente evacuado: 77
+Iteracion 14/100 finalizada. Supervivientes: 136 | Turno último agente evacuado: 58
+Iteracion 15/100 finalizada. Supervivientes: 115 | Turno último agente evacuado: 50
+Iteracion 16/100 finalizada. Supervivientes: 82 | Turno último agente evacuado: 36
+Iteracion 17/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 42
+Iteracion 18/100 finalizada. Supervivientes: 161 | Turno último agente evacuado: 67
+Iteracion 19/100 finalizada. Supervivientes: 87 | Turno último agente evacuado: 40
+Iteracion 20/100 finalizada. Supervivientes: 156 | Turno último agente evacuado: 66
+Iteracion 21/100 finalizada. Supervivientes: 157 | Turno último agente evacuado: 65
+Iteracion 22/100 finalizada. Supervivientes: 144 | Turno último agente evacuado: 58
+Iteracion 23/100 finalizada. Supervivientes: 92 | Turno último agente evacuado: 42
+Iteracion 24/100 finalizada. Supervivientes: 80 | Turno último agente evacuado: 36
+Iteracion 25/100 finalizada. Supervivientes: 68 | Turno último agente evacuado: 29
+Iteracion 26/100 finalizada. Supervivientes: 107 | Turno último agente evacuado: 46
+Iteracion 27/100 finalizada. Supervivientes: 176 | Turno último agente evacuado: 75
+Iteracion 28/100 finalizada. Supervivientes: 180 | Turno último agente evacuado: 75
+Iteracion 29/100 finalizada. Supervivientes: 96 | Turno último agente evacuado: 44
+Iteracion 30/100 finalizada. Supervivientes: 145 | Turno último agente evacuado: 63
+Iteracion 31/100 finalizada. Supervivientes: 69 | Turno último agente evacuado: 32
+Iteracion 32/100 finalizada. Supervivientes: 181 | Turno último agente evacuado: 76
+Iteracion 33/100 finalizada. Supervivientes: 146 | Turno último agente evacuado: 60
+Iteracion 34/100 finalizada. Supervivientes: 109 | Turno último agente evacuado: 47
+Iteracion 35/100 finalizada. Supervivientes: 52 | Turno último agente evacuado: 26
+Iteracion 36/100 finalizada. Supervivientes: 183 | Turno último agente evacuado: 78
+Iteracion 37/100 finalizada. Supervivientes: 63 | Turno último agente evacuado: 28
+Iteracion 38/100 finalizada. Supervivientes: 77 | Turno último agente evacuado: 34
+Iteracion 39/100 finalizada. Supervivientes: 52 | Turno último agente evacuado: 27
+Iteracion 40/100 finalizada. Supervivientes: 116 | Turno último agente evacuado: 50
+Iteracion 41/100 finalizada. Supervivientes: 134 | Turno último agente evacuado: 56
+Iteracion 42/100 finalizada. Supervivientes: 144 | Turno último agente evacuado: 60
+Iteracion 43/100 finalizada. Supervivientes: 144 | Turno último agente evacuado: 61
+Iteracion 44/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 44
+Iteracion 45/100 finalizada. Supervivientes: 77 | Turno último agente evacuado: 34
+Iteracion 46/100 finalizada. Supervivientes: 36 | Turno último agente evacuado: 22
+Iteracion 47/100 finalizada. Supervivientes: 42 | Turno último agente evacuado: 21
+Iteracion 48/100 finalizada. Supervivientes: 184 | Turno último agente evacuado: 82
+Iteracion 49/100 finalizada. Supervivientes: 98 | Turno último agente evacuado: 44
+Iteracion 50/100 finalizada. Supervivientes: 175 | Turno último agente evacuado: 72
+Iteracion 51/100 finalizada. Supervivientes: 66 | Turno último agente evacuado: 30
+Iteracion 52/100 finalizada. Supervivientes: 61 | Turno último agente evacuado: 29
+Iteracion 53/100 finalizada. Supervivientes: 147 | Turno último agente evacuado: 62
+Iteracion 54/100 finalizada. Supervivientes: 93 | Turno último agente evacuado: 42
+Iteracion 55/100 finalizada. Supervivientes: 81 | Turno último agente evacuado: 36
+Iteracion 56/100 finalizada. Supervivientes: 180 | Turno último agente evacuado: 75
+Iteracion 57/100 finalizada. Supervivientes: 154 | Turno último agente evacuado: 67
+Iteracion 58/100 finalizada. Supervivientes: 144 | Turno último agente evacuado: 59
+Iteracion 59/100 finalizada. Supervivientes: 154 | Turno último agente evacuado: 64
+Iteracion 60/100 finalizada. Supervivientes: 142 | Turno último agente evacuado: 61
+Iteracion 61/100 finalizada. Supervivientes: 71 | Turno último agente evacuado: 34
+Iteracion 62/100 finalizada. Supervivientes: 68 | Turno último agente evacuado: 30
+Iteracion 63/100 finalizada. Supervivientes: 44 | Turno último agente evacuado: 23
+Iteracion 64/100 finalizada. Supervivientes: 151 | Turno último agente evacuado: 66
+Iteracion 65/100 finalizada. Supervivientes: 58 | Turno último agente evacuado: 26
+Iteracion 66/100 finalizada. Supervivientes: 131 | Turno último agente evacuado: 58
+Iteracion 67/100 finalizada. Supervivientes: 149 | Turno último agente evacuado: 62
+Iteracion 68/100 finalizada. Supervivientes: 34 | Turno último agente evacuado: 22
+Iteracion 69/100 finalizada. Supervivientes: 43 | Turno último agente evacuado: 24
+Iteracion 70/100 finalizada. Supervivientes: 124 | Turno último agente evacuado: 52
+Iteracion 71/100 finalizada. Supervivientes: 63 | Turno último agente evacuado: 31
+Iteracion 72/100 finalizada. Supervivientes: 66 | Turno último agente evacuado: 30
+Iteracion 73/100 finalizada. Supervivientes: 133 | Turno último agente evacuado: 57
+Iteracion 74/100 finalizada. Supervivientes: 63 | Turno último agente evacuado: 29
+Iteracion 75/100 finalizada. Supervivientes: 97 | Turno último agente evacuado: 44
+Iteracion 76/100 finalizada. Supervivientes: 186 | Turno último agente evacuado: 77
+Iteracion 77/100 finalizada. Supervivientes: 129 | Turno último agente evacuado: 56
+Iteracion 78/100 finalizada. Supervivientes: 157 | Turno último agente evacuado: 65
+Iteracion 79/100 finalizada. Supervivientes: 90 | Turno último agente evacuado: 39
+Iteracion 80/100 finalizada. Supervivientes: 162 | Turno último agente evacuado: 71
+Iteracion 81/100 finalizada. Supervivientes: 152 | Turno último agente evacuado: 63
+Iteracion 82/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 40
+Iteracion 83/100 finalizada. Supervivientes: 133 | Turno último agente evacuado: 58
+Iteracion 84/100 finalizada. Supervivientes: 130 | Turno último agente evacuado: 55
+Iteracion 85/100 finalizada. Supervivientes: 83 | Turno último agente evacuado: 38
+Iteracion 86/100 finalizada. Supervivientes: 198 | Turno último agente evacuado: 84
+Iteracion 87/100 finalizada. Supervivientes: 70 | Turno último agente evacuado: 32
+Iteracion 88/100 finalizada. Supervivientes: 144 | Turno último agente evacuado: 60
+Iteracion 89/100 finalizada. Supervivientes: 104 | Turno último agente evacuado: 44
+Iteracion 90/100 finalizada. Supervivientes: 150 | Turno último agente evacuado: 63
+Iteracion 91/100 finalizada. Supervivientes: 162 | Turno último agente evacuado: 68
+Iteracion 92/100 finalizada. Supervivientes: 159 | Turno último agente evacuado: 64
+Iteracion 93/100 finalizada. Supervivientes: 52 | Turno último agente evacuado: 25
+Iteracion 94/100 finalizada. Supervivientes: 158 | Turno último agente evacuado: 67
+Iteracion 95/100 finalizada. Supervivientes: 40 | Turno último agente evacuado: 22
+Iteracion 96/100 finalizada. Supervivientes: 177 | Turno último agente evacuado: 74
+Iteracion 97/100 finalizada. Supervivientes: 164 | Turno último agente evacuado: 68
+Iteracion 98/100 finalizada. Supervivientes: 72 | Turno último agente evacuado: 32
+Iteracion 99/100 finalizada. Supervivientes: 136 | Turno último agente evacuado: 56
+Iteracion 100/100 finalizada. Supervivientes: 75 | Turno último agente evacuado: 37
+
+RESULTADOS BENCHMARK UCS MAPA BAJA DENSIDAD
+Tasa de Supervivencia Promedio = 57.95%
+Tiempo de despeje Medio = 50.28 turnos
+Desviación Estándar = 17.32 turnos
+Tiempo Mínimo = 21 turnos
+Tiempo Máximo = 84 turnos
+
+GREEDY
+Iniciando Benchmark: Greedy en Baja Densidad (100 iteraciones)
+Iteracion 1/100 finalizada. Supervivientes: 78 | Turno último agente evacuado: 32
+Iteracion 2/100 finalizada. Supervivientes: 102 | Turno último agente evacuado: 42
+Iteracion 3/100 finalizada. Supervivientes: 144 | Turno último agente evacuado: 56
+Iteracion 4/100 finalizada. Supervivientes: 110 | Turno último agente evacuado: 46
+Iteracion 5/100 finalizada. Supervivientes: 169 | Turno último agente evacuado: 66
+Iteracion 6/100 finalizada. Supervivientes: 84 | Turno último agente evacuado: 35
+Iteracion 7/100 finalizada. Supervivientes: 106 | Turno último agente evacuado: 44
+Iteracion 8/100 finalizada. Supervivientes: 61 | Turno último agente evacuado: 26
+Iteracion 9/100 finalizada. Supervivientes: 79 | Turno último agente evacuado: 32
+Iteracion 10/100 finalizada. Supervivientes: 116 | Turno último agente evacuado: 46
+Iteracion 11/100 finalizada. Supervivientes: 73 | Turno último agente evacuado: 31
+Iteracion 12/100 finalizada. Supervivientes: 47 | Turno último agente evacuado: 21
+Iteracion 13/100 finalizada. Supervivientes: 153 | Turno último agente evacuado: 62
+Iteracion 14/100 finalizada. Supervivientes: 103 | Turno último agente evacuado: 41
+Iteracion 15/100 finalizada. Supervivientes: 84 | Turno último agente evacuado: 36
+Iteracion 16/100 finalizada. Supervivientes: 63 | Turno último agente evacuado: 26
+Iteracion 17/100 finalizada. Supervivientes: 72 | Turno último agente evacuado: 30
+Iteracion 18/100 finalizada. Supervivientes: 130 | Turno último agente evacuado: 50
+Iteracion 19/100 finalizada. Supervivientes: 69 | Turno último agente evacuado: 30
+Iteracion 20/100 finalizada. Supervivientes: 122 | Turno último agente evacuado: 48
+Iteracion 21/100 finalizada. Supervivientes: 131 | Turno último agente evacuado: 50
+Iteracion 22/100 finalizada. Supervivientes: 110 | Turno último agente evacuado: 43
+Iteracion 23/100 finalizada. Supervivientes: 73 | Turno último agente evacuado: 31
+Iteracion 24/100 finalizada. Supervivientes: 69 | Turno último agente evacuado: 28
+Iteracion 25/100 finalizada. Supervivientes: 68 | Turno último agente evacuado: 28
+Iteracion 26/100 finalizada. Supervivientes: 86 | Turno último agente evacuado: 34
+Iteracion 27/100 finalizada. Supervivientes: 144 | Turno último agente evacuado: 58
+Iteracion 28/100 finalizada. Supervivientes: 146 | Turno último agente evacuado: 62
+Iteracion 29/100 finalizada. Supervivientes: 79 | Turno último agente evacuado: 32
+Iteracion 30/100 finalizada. Supervivientes: 120 | Turno último agente evacuado: 47
+Iteracion 31/100 finalizada. Supervivientes: 73 | Turno último agente evacuado: 30
+Iteracion 32/100 finalizada. Supervivientes: 150 | Turno último agente evacuado: 60
+Iteracion 33/100 finalizada. Supervivientes: 114 | Turno último agente evacuado: 45
+Iteracion 34/100 finalizada. Supervivientes: 85 | Turno último agente evacuado: 35
+Iteracion 35/100 finalizada. Supervivientes: 38 | Turno último agente evacuado: 18
+Iteracion 36/100 finalizada. Supervivientes: 151 | Turno último agente evacuado: 60
+Iteracion 37/100 finalizada. Supervivientes: 56 | Turno último agente evacuado: 25
+Iteracion 38/100 finalizada. Supervivientes: 63 | Turno último agente evacuado: 26
+Iteracion 39/100 finalizada. Supervivientes: 61 | Turno último agente evacuado: 26
+Iteracion 40/100 finalizada. Supervivientes: 96 | Turno último agente evacuado: 38
+Iteracion 41/100 finalizada. Supervivientes: 107 | Turno último agente evacuado: 41
+Iteracion 42/100 finalizada. Supervivientes: 109 | Turno último agente evacuado: 43
+Iteracion 43/100 finalizada. Supervivientes: 116 | Turno último agente evacuado: 45
+Iteracion 44/100 finalizada. Supervivientes: 82 | Turno último agente evacuado: 33
+Iteracion 45/100 finalizada. Supervivientes: 75 | Turno último agente evacuado: 30
+Iteracion 46/100 finalizada. Supervivientes: 31 | Turno último agente evacuado: 17
+Iteracion 47/100 finalizada. Supervivientes: 47 | Turno último agente evacuado: 20
+Iteracion 48/100 finalizada. Supervivientes: 171 | Turno último agente evacuado: 66
+Iteracion 49/100 finalizada. Supervivientes: 77 | Turno último agente evacuado: 32
+Iteracion 50/100 finalizada. Supervivientes: 144 | Turno último agente evacuado: 56
+Iteracion 51/100 finalizada. Supervivientes: 66 | Turno último agente evacuado: 26
+Iteracion 52/100 finalizada. Supervivientes: 51 | Turno último agente evacuado: 22
+Iteracion 53/100 finalizada. Supervivientes: 114 | Turno último agente evacuado: 45
+Iteracion 54/100 finalizada. Supervivientes: 71 | Turno último agente evacuado: 29
+Iteracion 55/100 finalizada. Supervivientes: 66 | Turno último agente evacuado: 27
+Iteracion 56/100 finalizada. Supervivientes: 146 | Turno último agente evacuado: 58
+Iteracion 57/100 finalizada. Supervivientes: 130 | Turno último agente evacuado: 50
+Iteracion 58/100 finalizada. Supervivientes: 105 | Turno último agente evacuado: 43
+Iteracion 59/100 finalizada. Supervivientes: 117 | Turno último agente evacuado: 46
+Iteracion 60/100 finalizada. Supervivientes: 111 | Turno último agente evacuado: 44
+Iteracion 61/100 finalizada. Supervivientes: 52 | Turno último agente evacuado: 24
+Iteracion 62/100 finalizada. Supervivientes: 64 | Turno último agente evacuado: 26
+Iteracion 63/100 finalizada. Supervivientes: 38 | Turno último agente evacuado: 18
+Iteracion 64/100 finalizada. Supervivientes: 122 | Turno último agente evacuado: 48
+Iteracion 65/100 finalizada. Supervivientes: 44 | Turno último agente evacuado: 20
+Iteracion 66/100 finalizada. Supervivientes: 101 | Turno último agente evacuado: 41
+Iteracion 67/100 finalizada. Supervivientes: 109 | Turno último agente evacuado: 44
+Iteracion 68/100 finalizada. Supervivientes: 25 | Turno último agente evacuado: 15
+Iteracion 69/100 finalizada. Supervivientes: 31 | Turno último agente evacuado: 18
+Iteracion 70/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 38
+Iteracion 71/100 finalizada. Supervivientes: 50 | Turno último agente evacuado: 23
+Iteracion 72/100 finalizada. Supervivientes: 52 | Turno último agente evacuado: 22
+Iteracion 73/100 finalizada. Supervivientes: 105 | Turno último agente evacuado: 41
+Iteracion 74/100 finalizada. Supervivientes: 48 | Turno último agente evacuado: 21
+Iteracion 75/100 finalizada. Supervivientes: 67 | Turno último agente evacuado: 30
+Iteracion 76/100 finalizada. Supervivientes: 157 | Turno último agente evacuado: 60
+Iteracion 77/100 finalizada. Supervivientes: 100 | Turno último agente evacuado: 41
+Iteracion 78/100 finalizada. Supervivientes: 122 | Turno último agente evacuado: 48
+Iteracion 79/100 finalizada. Supervivientes: 73 | Turno último agente evacuado: 30
+Iteracion 80/100 finalizada. Supervivientes: 137 | Turno último agente evacuado: 54
+Iteracion 81/100 finalizada. Supervivientes: 128 | Turno último agente evacuado: 50
+Iteracion 82/100 finalizada. Supervivientes: 75 | Turno último agente evacuado: 30
+Iteracion 83/100 finalizada. Supervivientes: 108 | Turno último agente evacuado: 44
+Iteracion 84/100 finalizada. Supervivientes: 106 | Turno último agente evacuado: 42
+Iteracion 85/100 finalizada. Supervivientes: 71 | Turno último agente evacuado: 30
+Iteracion 86/100 finalizada. Supervivientes: 172 | Turno último agente evacuado: 68
+Iteracion 87/100 finalizada. Supervivientes: 56 | Turno último agente evacuado: 25
+Iteracion 88/100 finalizada. Supervivientes: 112 | Turno último agente evacuado: 45
+Iteracion 89/100 finalizada. Supervivientes: 80 | Turno último agente evacuado: 32
+Iteracion 90/100 finalizada. Supervivientes: 120 | Turno último agente evacuado: 47
+Iteracion 91/100 finalizada. Supervivientes: 133 | Turno último agente evacuado: 52
+Iteracion 92/100 finalizada. Supervivientes: 118 | Turno último agente evacuado: 46
+Iteracion 93/100 finalizada. Supervivientes: 43 | Turno último agente evacuado: 19
+Iteracion 94/100 finalizada. Supervivientes: 133 | Turno último agente evacuado: 52
+Iteracion 95/100 finalizada. Supervivientes: 35 | Turno último agente evacuado: 17
+Iteracion 96/100 finalizada. Supervivientes: 147 | Turno último agente evacuado: 58
+Iteracion 97/100 finalizada. Supervivientes: 130 | Turno último agente evacuado: 50
+Iteracion 98/100 finalizada. Supervivientes: 54 | Turno último agente evacuado: 24
+Iteracion 99/100 finalizada. Supervivientes: 106 | Turno último agente evacuado: 43
+Iteracion 100/100 finalizada. Supervivientes: 64 | Turno último agente evacuado: 27
+
+RESULTADOS BENCHMARK GREEDY BEST FIRST SEARCH MAPA BAJA DENSIDAD
+Tasa de Supervivencia Promedio = 46.98%
+Tiempo de despeje Medio = 38.12 turnos
+Desviación Estándar = 13.20 turnos
+Tiempo Mínimo = 15 turnos
+Tiempo Máximo = 68 turnos
+
+A*
+Iniciando Benchmark: A* en Baja Densidad (100 iteraciones)
+Iteracion 1/100 finalizada. Supervivientes: 91 | Turno último agente evacuado: 43
+Iteracion 2/100 finalizada. Supervivientes: 136 | Turno último agente evacuado: 57
+Iteracion 3/100 finalizada. Supervivientes: 172 | Turno último agente evacuado: 72
+Iteracion 4/100 finalizada. Supervivientes: 143 | Turno último agente evacuado: 63
+Iteracion 5/100 finalizada. Supervivientes: 183 | Turno último agente evacuado: 79
+Iteracion 6/100 finalizada. Supervivientes: 99 | Turno último agente evacuado: 46
+Iteracion 7/100 finalizada. Supervivientes: 138 | Turno último agente evacuado: 60
+Iteracion 8/100 finalizada. Supervivientes: 78 | Turno último agente evacuado: 36
+Iteracion 9/100 finalizada. Supervivientes: 97 | Turno último agente evacuado: 44
+Iteracion 10/100 finalizada. Supervivientes: 151 | Turno último agente evacuado: 63
+Iteracion 11/100 finalizada. Supervivientes: 82 | Turno último agente evacuado: 39
+Iteracion 12/100 finalizada. Supervivientes: 45 | Turno último agente evacuado: 24
+Iteracion 13/100 finalizada. Supervivientes: 179 | Turno último agente evacuado: 76
+Iteracion 14/100 finalizada. Supervivientes: 132 | Turno último agente evacuado: 56
+Iteracion 15/100 finalizada. Supervivientes: 115 | Turno último agente evacuado: 50
+Iteracion 16/100 finalizada. Supervivientes: 80 | Turno último agente evacuado: 35
+Iteracion 17/100 finalizada. Supervivientes: 92 | Turno último agente evacuado: 40
+Iteracion 18/100 finalizada. Supervivientes: 168 | Turno último agente evacuado: 67
+Iteracion 19/100 finalizada. Supervivientes: 92 | Turno último agente evacuado: 41
+Iteracion 20/100 finalizada. Supervivientes: 148 | Turno último agente evacuado: 61
+Iteracion 21/100 finalizada. Supervivientes: 165 | Turno último agente evacuado: 68
+Iteracion 22/100 finalizada. Supervivientes: 136 | Turno último agente evacuado: 56
+Iteracion 23/100 finalizada. Supervivientes: 92 | Turno último agente evacuado: 39
+Iteracion 24/100 finalizada. Supervivientes: 82 | Turno último agente evacuado: 36
+Iteracion 25/100 finalizada. Supervivientes: 66 | Turno último agente evacuado: 30
+Iteracion 26/100 finalizada. Supervivientes: 111 | Turno último agente evacuado: 45
+Iteracion 27/100 finalizada. Supervivientes: 168 | Turno último agente evacuado: 71
+Iteracion 28/100 finalizada. Supervivientes: 178 | Turno último agente evacuado: 76
+Iteracion 29/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 42
+Iteracion 30/100 finalizada. Supervivientes: 145 | Turno último agente evacuado: 64
+Iteracion 31/100 finalizada. Supervivientes: 72 | Turno último agente evacuado: 32
+Iteracion 32/100 finalizada. Supervivientes: 178 | Turno último agente evacuado: 76
+Iteracion 33/100 finalizada. Supervivientes: 141 | Turno último agente evacuado: 61
+Iteracion 34/100 finalizada. Supervivientes: 114 | Turno último agente evacuado: 48
+Iteracion 35/100 finalizada. Supervivientes: 54 | Turno último agente evacuado: 26
+Iteracion 36/100 finalizada. Supervivientes: 179 | Turno último agente evacuado: 76
+Iteracion 37/100 finalizada. Supervivientes: 64 | Turno último agente evacuado: 29
+Iteracion 38/100 finalizada. Supervivientes: 78 | Turno último agente evacuado: 34
+Iteracion 39/100 finalizada. Supervivientes: 51 | Turno último agente evacuado: 28
+Iteracion 40/100 finalizada. Supervivientes: 113 | Turno último agente evacuado: 50
+Iteracion 41/100 finalizada. Supervivientes: 138 | Turno último agente evacuado: 57
+Iteracion 42/100 finalizada. Supervivientes: 141 | Turno último agente evacuado: 60
+Iteracion 43/100 finalizada. Supervivientes: 142 | Turno último agente evacuado: 62
+Iteracion 44/100 finalizada. Supervivientes: 98 | Turno último agente evacuado: 42
+Iteracion 45/100 finalizada. Supervivientes: 78 | Turno último agente evacuado: 34
+Iteracion 46/100 finalizada. Supervivientes: 35 | Turno último agente evacuado: 21
+Iteracion 47/100 finalizada. Supervivientes: 45 | Turno último agente evacuado: 22
+Iteracion 48/100 finalizada. Supervivientes: 184 | Turno último agente evacuado: 79
+Iteracion 49/100 finalizada. Supervivientes: 96 | Turno último agente evacuado: 43
+Iteracion 50/100 finalizada. Supervivientes: 173 | Turno último agente evacuado: 71
+Iteracion 51/100 finalizada. Supervivientes: 67 | Turno último agente evacuado: 30
+Iteracion 52/100 finalizada. Supervivientes: 57 | Turno último agente evacuado: 30
+Iteracion 53/100 finalizada. Supervivientes: 145 | Turno último agente evacuado: 60
+Iteracion 54/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 44
+Iteracion 55/100 finalizada. Supervivientes: 75 | Turno último agente evacuado: 34
+Iteracion 56/100 finalizada. Supervivientes: 175 | Turno último agente evacuado: 72
+Iteracion 57/100 finalizada. Supervivientes: 165 | Turno último agente evacuado: 67
+Iteracion 58/100 finalizada. Supervivientes: 136 | Turno último agente evacuado: 58
+Iteracion 59/100 finalizada. Supervivientes: 154 | Turno último agente evacuado: 64
+Iteracion 60/100 finalizada. Supervivientes: 143 | Turno último agente evacuado: 62
+Iteracion 61/100 finalizada. Supervivientes: 74 | Turno último agente evacuado: 34
+Iteracion 62/100 finalizada. Supervivientes: 67 | Turno último agente evacuado: 30
+Iteracion 63/100 finalizada. Supervivientes: 41 | Turno último agente evacuado: 22
+Iteracion 64/100 finalizada. Supervivientes: 156 | Turno último agente evacuado: 66
+Iteracion 65/100 finalizada. Supervivientes: 50 | Turno último agente evacuado: 26
+Iteracion 66/100 finalizada. Supervivientes: 130 | Turno último agente evacuado: 57
+Iteracion 67/100 finalizada. Supervivientes: 141 | Turno último agente evacuado: 61
+Iteracion 68/100 finalizada. Supervivientes: 32 | Turno último agente evacuado: 19
+Iteracion 69/100 finalizada. Supervivientes: 35 | Turno último agente evacuado: 22
+Iteracion 70/100 finalizada. Supervivientes: 118 | Turno último agente evacuado: 51
+Iteracion 71/100 finalizada. Supervivientes: 63 | Turno último agente evacuado: 31
+Iteracion 72/100 finalizada. Supervivientes: 57 | Turno último agente evacuado: 30
+Iteracion 73/100 finalizada. Supervivientes: 135 | Turno último agente evacuado: 58
+Iteracion 74/100 finalizada. Supervivientes: 63 | Turno último agente evacuado: 28
+Iteracion 75/100 finalizada. Supervivientes: 93 | Turno último agente evacuado: 44
+Iteracion 76/100 finalizada. Supervivientes: 177 | Turno último agente evacuado: 73
+Iteracion 77/100 finalizada. Supervivientes: 129 | Turno último agente evacuado: 54
+Iteracion 78/100 finalizada. Supervivientes: 161 | Turno último agente evacuado: 65
+Iteracion 79/100 finalizada. Supervivientes: 86 | Turno último agente evacuado: 39
+Iteracion 80/100 finalizada. Supervivientes: 159 | Turno último agente evacuado: 68
+Iteracion 81/100 finalizada. Supervivientes: 160 | Turno último agente evacuado: 67
+Iteracion 82/100 finalizada. Supervivientes: 94 | Turno último agente evacuado: 40
+Iteracion 83/100 finalizada. Supervivientes: 133 | Turno último agente evacuado: 58
+Iteracion 84/100 finalizada. Supervivientes: 125 | Turno último agente evacuado: 52
+Iteracion 85/100 finalizada. Supervivientes: 85 | Turno último agente evacuado: 37
+Iteracion 86/100 finalizada. Supervivientes: 194 | Turno último agente evacuado: 81
+Iteracion 87/100 finalizada. Supervivientes: 70 | Turno último agente evacuado: 34
+Iteracion 88/100 finalizada. Supervivientes: 144 | Turno último agente evacuado: 62
+Iteracion 89/100 finalizada. Supervivientes: 94 | Turno último agente evacuado: 43
+Iteracion 90/100 finalizada. Supervivientes: 156 | Turno último agente evacuado: 64
+Iteracion 91/100 finalizada. Supervivientes: 170 | Turno último agente evacuado: 70
+Iteracion 92/100 finalizada. Supervivientes: 157 | Turno último agente evacuado: 64
+Iteracion 93/100 finalizada. Supervivientes: 55 | Turno último agente evacuado: 26
+Iteracion 94/100 finalizada. Supervivientes: 158 | Turno último agente evacuado: 65
+Iteracion 95/100 finalizada. Supervivientes: 38 | Turno último agente evacuado: 21
+Iteracion 96/100 finalizada. Supervivientes: 180 | Turno último agente evacuado: 72
+Iteracion 97/100 finalizada. Supervivientes: 169 | Turno último agente evacuado: 68
+Iteracion 98/100 finalizada. Supervivientes: 63 | Turno último agente evacuado: 30
+Iteracion 99/100 finalizada. Supervivientes: 136 | Turno último agente evacuado: 57
+Iteracion 100/100 finalizada. Supervivientes: 87 | Turno último agente evacuado: 38
+
+RESULTADOS BENCHMARK A* MAPA BAJA DENSIDAD
+Tasa de Supervivencia Promedio = 57.40%
+Tiempo de despeje Medio = 49.78 turnos
+Desviación Estándar = 17.04 turnos
+Tiempo Mínimo = 19 turnos
+Tiempo Máximo = 81 turnos
+
+
+GENETICO
+Iniciando Benchmark: Genetico en Baja Densidad (100 iteraciones)
+Iteracion 1/100 finalizada. Supervivientes: 102 | Turno último agente evacuado: 43
+Iteracion 2/100 finalizada. Supervivientes: 135 | Turno último agente evacuado: 57
+Iteracion 3/100 finalizada. Supervivientes: 177 | Turno último agente evacuado: 73
+Iteracion 4/100 finalizada. Supervivientes: 150 | Turno último agente evacuado: 64
+Iteracion 5/100 finalizada. Supervivientes: 194 | Turno último agente evacuado: 79
+Iteracion 6/100 finalizada. Supervivientes: 110 | Turno último agente evacuado: 47
+Iteracion 7/100 finalizada. Supervivientes: 146 | Turno último agente evacuado: 62
+Iteracion 8/100 finalizada. Supervivientes: 82 | Turno último agente evacuado: 36
+Iteracion 9/100 finalizada. Supervivientes: 102 | Turno último agente evacuado: 45
+Iteracion 10/100 finalizada. Supervivientes: 155 | Turno último agente evacuado: 63
+Iteracion 11/100 finalizada. Supervivientes: 90 | Turno último agente evacuado: 40
+Iteracion 12/100 finalizada. Supervivientes: 49 | Turno último agente evacuado: 24
+Iteracion 13/100 finalizada. Supervivientes: 190 | Turno último agente evacuado: 79
+Iteracion 14/100 finalizada. Supervivientes: 138 | Turno último agente evacuado: 58
+Iteracion 15/100 finalizada. Supervivientes: 117 | Turno último agente evacuado: 50
+Iteracion 16/100 finalizada. Supervivientes: 85 | Turno último agente evacuado: 36
+Iteracion 17/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 42
+Iteracion 18/100 finalizada. Supervivientes: 169 | Turno último agente evacuado: 67
+Iteracion 19/100 finalizada. Supervivientes: 93 | Turno último agente evacuado: 42
+Iteracion 20/100 finalizada. Supervivientes: 157 | Turno último agente evacuado: 66
+Iteracion 21/100 finalizada. Supervivientes: 165 | Turno último agente evacuado: 66
+Iteracion 22/100 finalizada. Supervivientes: 143 | Turno último agente evacuado: 58
+Iteracion 23/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 42
+Iteracion 24/100 finalizada. Supervivientes: 83 | Turno último agente evacuado: 37
+Iteracion 25/100 finalizada. Supervivientes: 69 | Turno último agente evacuado: 30
+Iteracion 26/100 finalizada. Supervivientes: 107 | Turno último agente evacuado: 45
+Iteracion 27/100 finalizada. Supervivientes: 178 | Turno último agente evacuado: 76
+Iteracion 28/100 finalizada. Supervivientes: 191 | Turno último agente evacuado: 78
+Iteracion 29/100 finalizada. Supervivientes: 103 | Turno último agente evacuado: 44
+Iteracion 30/100 finalizada. Supervivientes: 154 | Turno último agente evacuado: 64
+Iteracion 31/100 finalizada. Supervivientes: 71 | Turno último agente evacuado: 31
+Iteracion 32/100 finalizada. Supervivientes: 188 | Turno último agente evacuado: 76
+Iteracion 33/100 finalizada. Supervivientes: 146 | Turno último agente evacuado: 61
+Iteracion 34/100 finalizada. Supervivientes: 113 | Turno último agente evacuado: 49
+Iteracion 35/100 finalizada. Supervivientes: 53 | Turno último agente evacuado: 27
+Iteracion 36/100 finalizada. Supervivientes: 186 | Turno último agente evacuado: 77
+Iteracion 37/100 finalizada. Supervivientes: 69 | Turno último agente evacuado: 30
+Iteracion 38/100 finalizada. Supervivientes: 75 | Turno último agente evacuado: 33
+Iteracion 39/100 finalizada. Supervivientes: 58 | Turno último agente evacuado: 29
+Iteracion 40/100 finalizada. Supervivientes: 115 | Turno último agente evacuado: 50
+Iteracion 41/100 finalizada. Supervivientes: 144 | Turno último agente evacuado: 59
+Iteracion 42/100 finalizada. Supervivientes: 146 | Turno último agente evacuado: 61
+Iteracion 43/100 finalizada. Supervivientes: 149 | Turno último agente evacuado: 61
+Iteracion 44/100 finalizada. Supervivientes: 98 | Turno último agente evacuado: 44
+Iteracion 45/100 finalizada. Supervivientes: 80 | Turno último agente evacuado: 34
+Iteracion 46/100 finalizada. Supervivientes: 42 | Turno último agente evacuado: 22
+Iteracion 47/100 finalizada. Supervivientes: 46 | Turno último agente evacuado: 22
+Iteracion 48/100 finalizada. Supervivientes: 195 | Turno último agente evacuado: 83
+Iteracion 49/100 finalizada. Supervivientes: 100 | Turno último agente evacuado: 44
+Iteracion 50/100 finalizada. Supervivientes: 177 | Turno último agente evacuado: 73
+Iteracion 51/100 finalizada. Supervivientes: 66 | Turno último agente evacuado: 30
+Iteracion 52/100 finalizada. Supervivientes: 63 | Turno último agente evacuado: 31
+Iteracion 53/100 finalizada. Supervivientes: 148 | Turno último agente evacuado: 62
+Iteracion 54/100 finalizada. Supervivientes: 98 | Turno último agente evacuado: 43
+Iteracion 55/100 finalizada. Supervivientes: 80 | Turno último agente evacuado: 37
+Iteracion 56/100 finalizada. Supervivientes: 178 | Turno último agente evacuado: 74
+Iteracion 57/100 finalizada. Supervivientes: 160 | Turno último agente evacuado: 69
+Iteracion 58/100 finalizada. Supervivientes: 145 | Turno último agente evacuado: 60
+Iteracion 59/100 finalizada. Supervivientes: 153 | Turno último agente evacuado: 64
+Iteracion 60/100 finalizada. Supervivientes: 147 | Turno último agente evacuado: 62
+Iteracion 61/100 finalizada. Supervivientes: 72 | Turno último agente evacuado: 34
+Iteracion 62/100 finalizada. Supervivientes: 65 | Turno último agente evacuado: 29
+Iteracion 63/100 finalizada. Supervivientes: 49 | Turno último agente evacuado: 23
+Iteracion 64/100 finalizada. Supervivientes: 157 | Turno último agente evacuado: 66
+Iteracion 65/100 finalizada. Supervivientes: 56 | Turno último agente evacuado: 26
+Iteracion 66/100 finalizada. Supervivientes: 138 | Turno último agente evacuado: 58
+Iteracion 67/100 finalizada. Supervivientes: 151 | Turno último agente evacuado: 62
+Iteracion 68/100 finalizada. Supervivientes: 36 | Turno último agente evacuado: 22
+Iteracion 69/100 finalizada. Supervivientes: 43 | Turno último agente evacuado: 24
+Iteracion 70/100 finalizada. Supervivientes: 119 | Turno último agente evacuado: 52
+Iteracion 71/100 finalizada. Supervivientes: 67 | Turno último agente evacuado: 31
+Iteracion 72/100 finalizada. Supervivientes: 63 | Turno último agente evacuado: 30
+Iteracion 73/100 finalizada. Supervivientes: 136 | Turno último agente evacuado: 59
+Iteracion 74/100 finalizada. Supervivientes: 66 | Turno último agente evacuado: 29
+Iteracion 75/100 finalizada. Supervivientes: 97 | Turno último agente evacuado: 44
+Iteracion 76/100 finalizada. Supervivientes: 186 | Turno último agente evacuado: 77
+Iteracion 77/100 finalizada. Supervivientes: 136 | Turno último agente evacuado: 56
+Iteracion 78/100 finalizada. Supervivientes: 161 | Turno último agente evacuado: 66
+Iteracion 79/100 finalizada. Supervivientes: 95 | Turno último agente evacuado: 40
+Iteracion 80/100 finalizada. Supervivientes: 173 | Turno último agente evacuado: 72
+Iteracion 81/100 finalizada. Supervivientes: 163 | Turno último agente evacuado: 68
+Iteracion 82/100 finalizada. Supervivientes: 90 | Turno último agente evacuado: 40
+Iteracion 83/100 finalizada. Supervivientes: 133 | Turno último agente evacuado: 60
+Iteracion 84/100 finalizada. Supervivientes: 133 | Turno último agente evacuado: 56
+Iteracion 85/100 finalizada. Supervivientes: 85 | Turno último agente evacuado: 38
+Iteracion 86/100 finalizada. Supervivientes: 197 | Turno último agente evacuado: 83
+Iteracion 87/100 finalizada. Supervivientes: 75 | Turno último agente evacuado: 34
+Iteracion 88/100 finalizada. Supervivientes: 148 | Turno último agente evacuado: 61
+Iteracion 89/100 finalizada. Supervivientes: 105 | Turno último agente evacuado: 44
+Iteracion 90/100 finalizada. Supervivientes: 153 | Turno último agente evacuado: 63
+Iteracion 91/100 finalizada. Supervivientes: 170 | Turno último agente evacuado: 71
+Iteracion 92/100 finalizada. Supervivientes: 154 | Turno último agente evacuado: 64
+Iteracion 93/100 finalizada. Supervivientes: 55 | Turno último agente evacuado: 26
+Iteracion 94/100 finalizada. Supervivientes: 169 | Turno último agente evacuado: 70
+Iteracion 95/100 finalizada. Supervivientes: 41 | Turno último agente evacuado: 21
+Iteracion 96/100 finalizada. Supervivientes: 184 | Turno último agente evacuado: 75
+Iteracion 97/100 finalizada. Supervivientes: 168 | Turno último agente evacuado: 68
+Iteracion 98/100 finalizada. Supervivientes: 70 | Turno último agente evacuado: 33
+Iteracion 99/100 finalizada. Supervivientes: 138 | Turno último agente evacuado: 56
+Iteracion 100/100 finalizada. Supervivientes: 87 | Turno último agente evacuado: 38
+
+RESULTADOS BENCHMARK GENETICO MAPA BAJA DENSIDAD
+Tasa de Supervivencia Promedio = 59.48%
+Tiempo de despeje Medio = 50.80 turnos
+Desviación Estándar = 17.42 turnos
+Tiempo Mínimo = 21 turnos
+Tiempo Máximo = 83 turnos
+
