@@ -2,13 +2,14 @@ import numpy as np
 from collections import deque
 import heapq
 
-
+# Clase para gestionar los nodos y sus costos en la busqueda UCS
 class NodoUcs:
     def __init__(self, estado, padre=None, costo_camino=0):
         self.estado = estado
         self.padre = padre
         self.costo_camino = costo_camino
 
+    # Permite ordenar los nodos en la cola de prioridad segun su costo
     def __lt__(self, otro):
         return self.costo_camino < otro.costo_camino
 
@@ -16,6 +17,7 @@ class NodoUcs:
 class BusquedaNoInformada:
     DIRECCIONES = [(0, 1), (0, -1), (1, 0), (-1, 0)]
 
+    # Busqueda en anchura
     @staticmethod
     def BreadthFirstSearch(posicion_actual, posicion_salida, mapa_actual):
         filas, columnas = mapa_actual.shape
@@ -43,6 +45,7 @@ class BusquedaNoInformada:
 
         return posicion_actual
 
+    # Busqueda por Costo Uniforme que prioriza rutas de menor costo acumulado
     @staticmethod
     def UniformCostSearch(posicion_actual, posicion_salida, mapa_actual, matriz_costos):
         filas, columnas = mapa_actual.shape
