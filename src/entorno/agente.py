@@ -1,3 +1,4 @@
+# Representa un agente individual en la simulacion
 class Agente:
     def __init__(self, id_agente, posicion_inicial):
         self.id_agente = id_agente
