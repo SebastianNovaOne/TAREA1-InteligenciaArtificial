@@ -53,3 +53,4 @@ Si escribes un valor fuera de rango o que no sea un número entero, el programa 
 
 ## Notas
 - A veces el primer menú aparece dos veces si quedó un Enter pendiente en la terminal. No afecta, el programa funciona bien igualmente.
+- El archivo RegistroBenchmarkTAREA1 contiene todas las iteraciones de los experimentos que se analizaron en el informe (los resultados finales están en el informe también por supuesto)
