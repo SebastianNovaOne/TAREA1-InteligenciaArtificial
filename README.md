@@ -1,4 +1,5 @@
 # TAREA1-InteligenciaArtificial
+# Sebastián Nova Sánchez
 
 # Simulador de evacuación de incendios
 
