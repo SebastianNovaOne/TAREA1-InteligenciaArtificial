@@ -8,7 +8,7 @@ def ejecutar_simulacion_visual(mapa_elegido, funcion_algoritmo, nombre_algoritmo
     entorno = EntornoSimulacion(
         matriz_mapa=mapa_elegido,
         k=2,
-        sensibilidad_congestion=1.0,
+        sensibilidad_congestion=3.5,
         fuego_aleatorio=True,
         capacidad_maxima=3
     )
