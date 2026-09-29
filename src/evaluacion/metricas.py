@@ -1,11 +1,12 @@
 import numpy as np
 
-
+# Clase para calcular estadisticas y metricas del rendimiento
 class Metricas:
+    # Calcula promedios de supervivencia, tiempos de despeje y desviaciones
     @staticmethod
     def calcular_estadisticas(tiempos, supervivientes, total_agentes_por_prueba):
         tasa_supervivencia_media = (np.mean(supervivientes) / total_agentes_por_prueba) * 100
-
+        # Verifica si al menos un agente logro evacuar para medir tiempos
         if len(tiempos) > 0:
             media_tiempo = np.mean(tiempos)
             desviacion_tiempo = np.std(tiempos)
