@@ -2,7 +2,7 @@ RESULTADOS OFICIALES: Log completo de los resultados obtenidos del programa
 
 MAPA ALTA DENSIDAD
 
-BSF
+BFS
 Iniciando Benchmark: BFS en Alta Densidad (100 iteraciones)
 Iteracion 1/100 finalizada. Supervivientes: 189 | Turno último agente evacuado: 85
 Iteracion 2/100 finalizada. Supervivientes: 69 | Turno último agente evacuado: 30
